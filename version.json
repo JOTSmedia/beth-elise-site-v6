@@ -1,0 +1,16 @@
+{
+  "version": 6,
+  "previous": "beth-elise-site-v5",
+  "status": "ready for iPhone retest",
+  "saved_date": "2026-10-19",
+  "purpose": "iPhone memory-pressure crash correction",
+  "deployment": "local only",
+  "changes": [
+    "Removed ~958 MiB eager image decode cache",
+    "Added responsive unchanged-art delivery assets and small canvas textures/icons",
+    "Bounded mobile canvas buffers without altering logical geometry or animation clocks",
+    "Preserved product image changes and cart thumbnail behavior"
+  ],
+  "physical_device_validation": "pending",
+  "browser_validation": "blocked by automatic localhost browser security review"
+}

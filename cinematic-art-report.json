@@ -1,0 +1,78 @@
+[
+  {
+    "asset": "hero-bg",
+    "method": "builtin-imagegen-edit then Lanczos delivery resize",
+    "native": [
+      1678,
+      937
+    ],
+    "delivery": [
+      4128,
+      2304
+    ],
+    "source": "/Users/bethrooney/.codex/generated_images/01a152af-99ac-7f53-b26f-eea936a04298/exec-4324e88d-28ed-43ab-8fba-4196556fb92b.png"
+  },
+  {
+    "asset": "footer-bg",
+    "method": "builtin-imagegen-edit then Lanczos delivery resize",
+    "native": [
+      1678,
+      937
+    ],
+    "delivery": [
+      4128,
+      2304
+    ],
+    "source": "/Users/bethrooney/.codex/generated_images/01a152af-99ac-7f53-b26f-eea936a04298/exec-4324e88d-28ed-43ab-8fba-4196556fb92b.png"
+  },
+  {
+    "asset": "services-bg",
+    "method": "builtin-imagegen-edit then Lanczos delivery resize",
+    "native": [
+      1254,
+      1254
+    ],
+    "delivery": [
+      4096,
+      4096
+    ],
+    "source": "/Users/bethrooney/.codex/generated_images/01a152af-99ac-7f53-b26f-eea936a04298/exec-f3fbb901-b069-4c2d-9a72-975caa02efdc.png"
+  },
+  {
+    "asset": "notes-by-beth",
+    "method": "builtin-imagegen-edit then Lanczos delivery resize",
+    "native": [
+      1678,
+      937
+    ],
+    "delivery": [
+      4128,
+      2304
+    ],
+    "source": "/Users/bethrooney/.codex/generated_images/01a152af-99ac-7f53-b26f-eea936a04298/exec-078960d6-dde1-4bfe-bd9c-9a5470e82ed0.png"
+  },
+  {
+    "asset": "portrait",
+    "method": "source-preserving delivery resize",
+    "native": [
+      952,
+      960
+    ],
+    "delivery": [
+      4062,
+      4096
+    ]
+  },
+  {
+    "asset": "og-card",
+    "method": "source-preserving delivery resize",
+    "native": [
+      1200,
+      630
+    ],
+    "delivery": [
+      4096,
+      2150
+    ]
+  }
+]

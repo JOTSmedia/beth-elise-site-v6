@@ -1,0 +1,3348 @@
+[
+  {
+    "source": "aura-silhouette-glow.webp",
+    "sourceExport": [
+      4096,
+      4096
+    ],
+    "delivery": "images/display/aura-silhouette-glow-192.webp",
+    "deliverySize": [
+      192,
+      192
+    ],
+    "bytes": 18058,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "aura-silhouette-glow.webp",
+    "sourceExport": [
+      4096,
+      4096
+    ],
+    "delivery": "images/display/aura-silhouette-glow-480.webp",
+    "deliverySize": [
+      480,
+      480
+    ],
+    "bytes": 101762,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "aura-silhouette-glow.webp",
+    "sourceExport": [
+      4096,
+      4096
+    ],
+    "delivery": "images/display/aura-silhouette-glow-960.webp",
+    "deliverySize": [
+      960,
+      960
+    ],
+    "bytes": 320172,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "aura-silhouette-glow.webp",
+    "sourceExport": [
+      4096,
+      4096
+    ],
+    "delivery": "images/display/aura-silhouette-glow-1440.webp",
+    "deliverySize": [
+      1440,
+      1440
+    ],
+    "bytes": 550072,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "avatar_body.webp",
+    "sourceExport": [
+      4096,
+      4096
+    ],
+    "delivery": "images/display/avatar_body-192.webp",
+    "deliverySize": [
+      192,
+      192
+    ],
+    "bytes": 9348,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "avatar_body.webp",
+    "sourceExport": [
+      4096,
+      4096
+    ],
+    "delivery": "images/display/avatar_body-480.webp",
+    "deliverySize": [
+      480,
+      480
+    ],
+    "bytes": 37666,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "avatar_body.webp",
+    "sourceExport": [
+      4096,
+      4096
+    ],
+    "delivery": "images/display/avatar_body-960.webp",
+    "deliverySize": [
+      960,
+      960
+    ],
+    "bytes": 110426,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "avatar_body.webp",
+    "sourceExport": [
+      4096,
+      4096
+    ],
+    "delivery": "images/display/avatar_body-1440.webp",
+    "deliverySize": [
+      1440,
+      1440
+    ],
+    "bytes": 198816,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "avatar_train.webp",
+    "sourceExport": [
+      4096,
+      4096
+    ],
+    "delivery": "images/display/avatar_train-192.webp",
+    "deliverySize": [
+      192,
+      192
+    ],
+    "bytes": 1826,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "avatar_train.webp",
+    "sourceExport": [
+      4096,
+      4096
+    ],
+    "delivery": "images/display/avatar_train-480.webp",
+    "deliverySize": [
+      480,
+      480
+    ],
+    "bytes": 6606,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "avatar_train.webp",
+    "sourceExport": [
+      4096,
+      4096
+    ],
+    "delivery": "images/display/avatar_train-960.webp",
+    "deliverySize": [
+      960,
+      960
+    ],
+    "bytes": 19040,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "avatar_train.webp",
+    "sourceExport": [
+      4096,
+      4096
+    ],
+    "delivery": "images/display/avatar_train-1440.webp",
+    "deliverySize": [
+      1440,
+      1440
+    ],
+    "bytes": 34120,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "avatar_wing_left.webp",
+    "sourceExport": [
+      4096,
+      4096
+    ],
+    "delivery": "images/display/avatar_wing_left-192.webp",
+    "deliverySize": [
+      192,
+      192
+    ],
+    "bytes": 1222,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "avatar_wing_left.webp",
+    "sourceExport": [
+      4096,
+      4096
+    ],
+    "delivery": "images/display/avatar_wing_left-480.webp",
+    "deliverySize": [
+      480,
+      480
+    ],
+    "bytes": 3986,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "avatar_wing_left.webp",
+    "sourceExport": [
+      4096,
+      4096
+    ],
+    "delivery": "images/display/avatar_wing_left-960.webp",
+    "deliverySize": [
+      960,
+      960
+    ],
+    "bytes": 10252,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "avatar_wing_left.webp",
+    "sourceExport": [
+      4096,
+      4096
+    ],
+    "delivery": "images/display/avatar_wing_left-1440.webp",
+    "deliverySize": [
+      1440,
+      1440
+    ],
+    "bytes": 18826,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "avatar_wing_right.webp",
+    "sourceExport": [
+      4096,
+      4096
+    ],
+    "delivery": "images/display/avatar_wing_right-192.webp",
+    "deliverySize": [
+      192,
+      192
+    ],
+    "bytes": 2334,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "avatar_wing_right.webp",
+    "sourceExport": [
+      4096,
+      4096
+    ],
+    "delivery": "images/display/avatar_wing_right-480.webp",
+    "deliverySize": [
+      480,
+      480
+    ],
+    "bytes": 8682,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "avatar_wing_right.webp",
+    "sourceExport": [
+      4096,
+      4096
+    ],
+    "delivery": "images/display/avatar_wing_right-960.webp",
+    "deliverySize": [
+      960,
+      960
+    ],
+    "bytes": 24536,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "avatar_wing_right.webp",
+    "sourceExport": [
+      4096,
+      4096
+    ],
+    "delivery": "images/display/avatar_wing_right-1440.webp",
+    "deliverySize": [
+      1440,
+      1440
+    ],
+    "bytes": 43286,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "butterfly-cinematic.webp",
+    "sourceExport": [
+      2048,
+      2048
+    ],
+    "delivery": "images/display/butterfly-cinematic-192.webp",
+    "deliverySize": [
+      192,
+      192
+    ],
+    "bytes": 15616,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "butterfly-cinematic.webp",
+    "sourceExport": [
+      2048,
+      2048
+    ],
+    "delivery": "images/display/butterfly-cinematic-480.webp",
+    "deliverySize": [
+      480,
+      480
+    ],
+    "bytes": 80588,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "butterfly-cinematic.webp",
+    "sourceExport": [
+      2048,
+      2048
+    ],
+    "delivery": "images/display/butterfly-cinematic-960.webp",
+    "deliverySize": [
+      960,
+      960
+    ],
+    "bytes": 318522,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "butterfly-cinematic.webp",
+    "sourceExport": [
+      2048,
+      2048
+    ],
+    "delivery": "images/display/butterfly-cinematic-1440.webp",
+    "deliverySize": [
+      1440,
+      1440
+    ],
+    "bytes": 676000,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "butterfly-monarch.webp",
+    "sourceExport": [
+      2048,
+      2048
+    ],
+    "delivery": "images/display/butterfly-monarch-192.webp",
+    "deliverySize": [
+      192,
+      192
+    ],
+    "bytes": 16562,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "butterfly-monarch.webp",
+    "sourceExport": [
+      2048,
+      2048
+    ],
+    "delivery": "images/display/butterfly-monarch-480.webp",
+    "deliverySize": [
+      480,
+      480
+    ],
+    "bytes": 78538,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "butterfly-monarch.webp",
+    "sourceExport": [
+      2048,
+      2048
+    ],
+    "delivery": "images/display/butterfly-monarch-960.webp",
+    "deliverySize": [
+      960,
+      960
+    ],
+    "bytes": 271394,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "butterfly-monarch.webp",
+    "sourceExport": [
+      2048,
+      2048
+    ],
+    "delivery": "images/display/butterfly-monarch-1440.webp",
+    "deliverySize": [
+      1440,
+      1440
+    ],
+    "bytes": 500078,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "butterfly-orange-tip.webp",
+    "sourceExport": [
+      2048,
+      2048
+    ],
+    "delivery": "images/display/butterfly-orange-tip-192.webp",
+    "deliverySize": [
+      192,
+      192
+    ],
+    "bytes": 13226,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "butterfly-orange-tip.webp",
+    "sourceExport": [
+      2048,
+      2048
+    ],
+    "delivery": "images/display/butterfly-orange-tip-480.webp",
+    "deliverySize": [
+      480,
+      480
+    ],
+    "bytes": 63234,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "butterfly-orange-tip.webp",
+    "sourceExport": [
+      2048,
+      2048
+    ],
+    "delivery": "images/display/butterfly-orange-tip-960.webp",
+    "deliverySize": [
+      960,
+      960
+    ],
+    "bytes": 219310,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "butterfly-orange-tip.webp",
+    "sourceExport": [
+      2048,
+      2048
+    ],
+    "delivery": "images/display/butterfly-orange-tip-1440.webp",
+    "deliverySize": [
+      1440,
+      1440
+    ],
+    "bytes": 415352,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "butterfly-swallowtail.webp",
+    "sourceExport": [
+      2048,
+      2048
+    ],
+    "delivery": "images/display/butterfly-swallowtail-192.webp",
+    "deliverySize": [
+      192,
+      192
+    ],
+    "bytes": 15178,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "butterfly-swallowtail.webp",
+    "sourceExport": [
+      2048,
+      2048
+    ],
+    "delivery": "images/display/butterfly-swallowtail-480.webp",
+    "deliverySize": [
+      480,
+      480
+    ],
+    "bytes": 66998,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "butterfly-swallowtail.webp",
+    "sourceExport": [
+      2048,
+      2048
+    ],
+    "delivery": "images/display/butterfly-swallowtail-960.webp",
+    "deliverySize": [
+      960,
+      960
+    ],
+    "bytes": 231218,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "butterfly-swallowtail.webp",
+    "sourceExport": [
+      2048,
+      2048
+    ],
+    "delivery": "images/display/butterfly-swallowtail-1440.webp",
+    "deliverySize": [
+      1440,
+      1440
+    ],
+    "bytes": 432742,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "chakra-watercolor-transparent.webp",
+    "sourceExport": [
+      2756,
+      4108
+    ],
+    "delivery": "images/display/chakra-watercolor-transparent-192.webp",
+    "deliverySize": [
+      192,
+      286
+    ],
+    "bytes": 26706,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "chakra-watercolor-transparent.webp",
+    "sourceExport": [
+      2756,
+      4108
+    ],
+    "delivery": "images/display/chakra-watercolor-transparent-480.webp",
+    "deliverySize": [
+      480,
+      715
+    ],
+    "bytes": 121110,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "chakra-watercolor-transparent.webp",
+    "sourceExport": [
+      2756,
+      4108
+    ],
+    "delivery": "images/display/chakra-watercolor-transparent-960.webp",
+    "deliverySize": [
+      960,
+      1431
+    ],
+    "bytes": 366200,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "chakra-watercolor-transparent.webp",
+    "sourceExport": [
+      2756,
+      4108
+    ],
+    "delivery": "images/display/chakra-watercolor-transparent-1440.webp",
+    "deliverySize": [
+      1440,
+      2146
+    ],
+    "bytes": 640774,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "crystal_glass_specular.webp",
+    "sourceExport": [
+      4096,
+      4096
+    ],
+    "delivery": "images/display/crystal_glass_specular-192.webp",
+    "deliverySize": [
+      192,
+      192
+    ],
+    "bytes": 12594,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "crystal_glass_specular.webp",
+    "sourceExport": [
+      4096,
+      4096
+    ],
+    "delivery": "images/display/crystal_glass_specular-480.webp",
+    "deliverySize": [
+      480,
+      480
+    ],
+    "bytes": 53496,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "crystal_glass_specular.webp",
+    "sourceExport": [
+      4096,
+      4096
+    ],
+    "delivery": "images/display/crystal_glass_specular-960.webp",
+    "deliverySize": [
+      960,
+      960
+    ],
+    "bytes": 141004,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "crystal_glass_specular.webp",
+    "sourceExport": [
+      4096,
+      4096
+    ],
+    "delivery": "images/display/crystal_glass_specular-1440.webp",
+    "deliverySize": [
+      1440,
+      1440
+    ],
+    "bytes": 243936,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "crystal_nebula_panorama.webp",
+    "sourceExport": [
+      4096,
+      2048
+    ],
+    "delivery": "images/display/crystal_nebula_panorama-192.webp",
+    "deliverySize": [
+      192,
+      96
+    ],
+    "bytes": 10680,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "crystal_nebula_panorama.webp",
+    "sourceExport": [
+      4096,
+      2048
+    ],
+    "delivery": "images/display/crystal_nebula_panorama-480.webp",
+    "deliverySize": [
+      480,
+      240
+    ],
+    "bytes": 55654,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "crystal_nebula_panorama.webp",
+    "sourceExport": [
+      4096,
+      2048
+    ],
+    "delivery": "images/display/crystal_nebula_panorama-960.webp",
+    "deliverySize": [
+      960,
+      480
+    ],
+    "bytes": 180524,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "crystal_nebula_panorama.webp",
+    "sourceExport": [
+      4096,
+      2048
+    ],
+    "delivery": "images/display/crystal_nebula_panorama-1440.webp",
+    "deliverySize": [
+      1440,
+      720
+    ],
+    "bytes": 331180,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "eye-iris-natural.webp",
+    "sourceExport": [
+      2048,
+      2048
+    ],
+    "delivery": "images/display/eye-iris-natural-192.webp",
+    "deliverySize": [
+      192,
+      192
+    ],
+    "bytes": 18958,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "eye-iris-natural.webp",
+    "sourceExport": [
+      2048,
+      2048
+    ],
+    "delivery": "images/display/eye-iris-natural-480.webp",
+    "deliverySize": [
+      480,
+      480
+    ],
+    "bytes": 95230,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "eye-iris-natural.webp",
+    "sourceExport": [
+      2048,
+      2048
+    ],
+    "delivery": "images/display/eye-iris-natural-960.webp",
+    "deliverySize": [
+      960,
+      960
+    ],
+    "bytes": 321824,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "eye-iris-natural.webp",
+    "sourceExport": [
+      2048,
+      2048
+    ],
+    "delivery": "images/display/eye-iris-natural-1440.webp",
+    "deliverySize": [
+      1440,
+      1440
+    ],
+    "bytes": 580052,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "eye-sclera-natural.webp",
+    "sourceExport": [
+      2048,
+      1024
+    ],
+    "delivery": "images/display/eye-sclera-natural-192.webp",
+    "deliverySize": [
+      192,
+      96
+    ],
+    "bytes": 9962,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "eye-sclera-natural.webp",
+    "sourceExport": [
+      2048,
+      1024
+    ],
+    "delivery": "images/display/eye-sclera-natural-480.webp",
+    "deliverySize": [
+      480,
+      240
+    ],
+    "bytes": 47112,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "eye-sclera-natural.webp",
+    "sourceExport": [
+      2048,
+      1024
+    ],
+    "delivery": "images/display/eye-sclera-natural-960.webp",
+    "deliverySize": [
+      960,
+      480
+    ],
+    "bytes": 156684,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "eye-sclera-natural.webp",
+    "sourceExport": [
+      2048,
+      1024
+    ],
+    "delivery": "images/display/eye-sclera-natural-1440.webp",
+    "deliverySize": [
+      1440,
+      720
+    ],
+    "bytes": 301548,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "favicon-512.webp",
+    "sourceExport": [
+      512,
+      512
+    ],
+    "delivery": "images/display/favicon-512-192.webp",
+    "deliverySize": [
+      192,
+      192
+    ],
+    "bytes": 18290,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "favicon-512.webp",
+    "sourceExport": [
+      512,
+      512
+    ],
+    "delivery": "images/display/favicon-512-480.webp",
+    "deliverySize": [
+      480,
+      480
+    ],
+    "bytes": 69416,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "favicon-512.webp",
+    "sourceExport": [
+      512,
+      512
+    ],
+    "delivery": "images/display/favicon-512-960.webp",
+    "deliverySize": [
+      512,
+      512
+    ],
+    "bytes": 62956,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "favicon-512.webp",
+    "sourceExport": [
+      512,
+      512
+    ],
+    "delivery": "images/display/favicon-512-1440.webp",
+    "deliverySize": [
+      512,
+      512
+    ],
+    "bytes": 62956,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "footer-bg.webp",
+    "sourceExport": [
+      4128,
+      2304
+    ],
+    "delivery": "images/display/footer-bg-192.webp",
+    "deliverySize": [
+      192,
+      107
+    ],
+    "bytes": 13042,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "footer-bg.webp",
+    "sourceExport": [
+      4128,
+      2304
+    ],
+    "delivery": "images/display/footer-bg-480.webp",
+    "deliverySize": [
+      480,
+      268
+    ],
+    "bytes": 75706,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "footer-bg.webp",
+    "sourceExport": [
+      4128,
+      2304
+    ],
+    "delivery": "images/display/footer-bg-960.webp",
+    "deliverySize": [
+      960,
+      536
+    ],
+    "bytes": 262924,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "footer-bg.webp",
+    "sourceExport": [
+      4128,
+      2304
+    ],
+    "delivery": "images/display/footer-bg-1440.webp",
+    "deliverySize": [
+      1440,
+      804
+    ],
+    "bytes": 517016,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "hero-bg.webp",
+    "sourceExport": [
+      4128,
+      2304
+    ],
+    "delivery": "images/display/hero-bg-192.webp",
+    "deliverySize": [
+      192,
+      107
+    ],
+    "bytes": 13042,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "hero-bg.webp",
+    "sourceExport": [
+      4128,
+      2304
+    ],
+    "delivery": "images/display/hero-bg-480.webp",
+    "deliverySize": [
+      480,
+      268
+    ],
+    "bytes": 75706,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "hero-bg.webp",
+    "sourceExport": [
+      4128,
+      2304
+    ],
+    "delivery": "images/display/hero-bg-960.webp",
+    "deliverySize": [
+      960,
+      536
+    ],
+    "bytes": 262924,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "hero-bg.webp",
+    "sourceExport": [
+      4128,
+      2304
+    ],
+    "delivery": "images/display/hero-bg-1440.webp",
+    "deliverySize": [
+      1440,
+      804
+    ],
+    "bytes": 517016,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "icon-eye.webp",
+    "sourceExport": [
+      4096,
+      4096
+    ],
+    "delivery": "images/display/icon-eye-192.webp",
+    "deliverySize": [
+      192,
+      192
+    ],
+    "bytes": 25240,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "icon-eye.webp",
+    "sourceExport": [
+      4096,
+      4096
+    ],
+    "delivery": "images/display/icon-eye-480.webp",
+    "deliverySize": [
+      480,
+      480
+    ],
+    "bytes": 126768,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "icon-eye.webp",
+    "sourceExport": [
+      4096,
+      4096
+    ],
+    "delivery": "images/display/icon-eye-960.webp",
+    "deliverySize": [
+      960,
+      960
+    ],
+    "bytes": 402624,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "icon-eye.webp",
+    "sourceExport": [
+      4096,
+      4096
+    ],
+    "delivery": "images/display/icon-eye-1440.webp",
+    "deliverySize": [
+      1440,
+      1440
+    ],
+    "bytes": 715636,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "icon-orb.webp",
+    "sourceExport": [
+      4096,
+      4096
+    ],
+    "delivery": "images/display/icon-orb-192.webp",
+    "deliverySize": [
+      192,
+      192
+    ],
+    "bytes": 26898,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "icon-orb.webp",
+    "sourceExport": [
+      4096,
+      4096
+    ],
+    "delivery": "images/display/icon-orb-480.webp",
+    "deliverySize": [
+      480,
+      480
+    ],
+    "bytes": 99470,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "icon-orb.webp",
+    "sourceExport": [
+      4096,
+      4096
+    ],
+    "delivery": "images/display/icon-orb-960.webp",
+    "deliverySize": [
+      960,
+      960
+    ],
+    "bytes": 194364,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "icon-orb.webp",
+    "sourceExport": [
+      4096,
+      4096
+    ],
+    "delivery": "images/display/icon-orb-1440.webp",
+    "deliverySize": [
+      1440,
+      1440
+    ],
+    "bytes": 311108,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "logo-dark.webp",
+    "sourceExport": [
+      4096,
+      2746
+    ],
+    "delivery": "images/display/logo-dark-192.webp",
+    "deliverySize": [
+      192,
+      129
+    ],
+    "bytes": 15466,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "logo-dark.webp",
+    "sourceExport": [
+      4096,
+      2746
+    ],
+    "delivery": "images/display/logo-dark-480.webp",
+    "deliverySize": [
+      480,
+      322
+    ],
+    "bytes": 68626,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "logo-dark.webp",
+    "sourceExport": [
+      4096,
+      2746
+    ],
+    "delivery": "images/display/logo-dark-960.webp",
+    "deliverySize": [
+      960,
+      644
+    ],
+    "bytes": 196296,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "logo-dark.webp",
+    "sourceExport": [
+      4096,
+      2746
+    ],
+    "delivery": "images/display/logo-dark-1440.webp",
+    "deliverySize": [
+      1440,
+      965
+    ],
+    "bytes": 364086,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "logo.webp",
+    "sourceExport": [
+      4096,
+      2746
+    ],
+    "delivery": "images/display/logo-192.webp",
+    "deliverySize": [
+      192,
+      129
+    ],
+    "bytes": 15466,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "logo.webp",
+    "sourceExport": [
+      4096,
+      2746
+    ],
+    "delivery": "images/display/logo-480.webp",
+    "deliverySize": [
+      480,
+      322
+    ],
+    "bytes": 68626,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "logo.webp",
+    "sourceExport": [
+      4096,
+      2746
+    ],
+    "delivery": "images/display/logo-960.webp",
+    "deliverySize": [
+      960,
+      644
+    ],
+    "bytes": 196296,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "logo.webp",
+    "sourceExport": [
+      4096,
+      2746
+    ],
+    "delivery": "images/display/logo-1440.webp",
+    "deliverySize": [
+      1440,
+      965
+    ],
+    "bytes": 364086,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "logo_light.webp",
+    "sourceExport": [
+      4096,
+      2746
+    ],
+    "delivery": "images/display/logo_light-192.webp",
+    "deliverySize": [
+      192,
+      129
+    ],
+    "bytes": 16086,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "logo_light.webp",
+    "sourceExport": [
+      4096,
+      2746
+    ],
+    "delivery": "images/display/logo_light-480.webp",
+    "deliverySize": [
+      480,
+      322
+    ],
+    "bytes": 64826,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "logo_light.webp",
+    "sourceExport": [
+      4096,
+      2746
+    ],
+    "delivery": "images/display/logo_light-960.webp",
+    "deliverySize": [
+      960,
+      644
+    ],
+    "bytes": 177010,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "logo_light.webp",
+    "sourceExport": [
+      4096,
+      2746
+    ],
+    "delivery": "images/display/logo_light-1440.webp",
+    "deliverySize": [
+      1440,
+      965
+    ],
+    "bytes": 319588,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "merch-crystals.webp",
+    "sourceExport": [
+      4096,
+      4096
+    ],
+    "delivery": "images/display/merch-crystals-192.webp",
+    "deliverySize": [
+      192,
+      192
+    ],
+    "bytes": 19940,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "merch-crystals.webp",
+    "sourceExport": [
+      4096,
+      4096
+    ],
+    "delivery": "images/display/merch-crystals-480.webp",
+    "deliverySize": [
+      480,
+      480
+    ],
+    "bytes": 110648,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "merch-crystals.webp",
+    "sourceExport": [
+      4096,
+      4096
+    ],
+    "delivery": "images/display/merch-crystals-960.webp",
+    "deliverySize": [
+      960,
+      960
+    ],
+    "bytes": 405068,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "merch-crystals.webp",
+    "sourceExport": [
+      4096,
+      4096
+    ],
+    "delivery": "images/display/merch-crystals-1440.webp",
+    "deliverySize": [
+      1440,
+      1440
+    ],
+    "bytes": 748180,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "merch-eye-believe-black.webp",
+    "sourceExport": [
+      4096,
+      4096
+    ],
+    "delivery": "images/display/merch-eye-believe-black-192.webp",
+    "deliverySize": [
+      192,
+      192
+    ],
+    "bytes": 11008,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "merch-eye-believe-black.webp",
+    "sourceExport": [
+      4096,
+      4096
+    ],
+    "delivery": "images/display/merch-eye-believe-black-480.webp",
+    "deliverySize": [
+      480,
+      480
+    ],
+    "bytes": 74120,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "merch-eye-believe-black.webp",
+    "sourceExport": [
+      4096,
+      4096
+    ],
+    "delivery": "images/display/merch-eye-believe-black-960.webp",
+    "deliverySize": [
+      960,
+      960
+    ],
+    "bytes": 315830,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "merch-eye-believe-black.webp",
+    "sourceExport": [
+      4096,
+      4096
+    ],
+    "delivery": "images/display/merch-eye-believe-black-1440.webp",
+    "deliverySize": [
+      1440,
+      1440
+    ],
+    "bytes": 630126,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "merch-eye-believe-hat-black.webp",
+    "sourceExport": [
+      4096,
+      4096
+    ],
+    "delivery": "images/display/merch-eye-believe-hat-black-192.webp",
+    "deliverySize": [
+      192,
+      192
+    ],
+    "bytes": 11886,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "merch-eye-believe-hat-black.webp",
+    "sourceExport": [
+      4096,
+      4096
+    ],
+    "delivery": "images/display/merch-eye-believe-hat-black-480.webp",
+    "deliverySize": [
+      480,
+      480
+    ],
+    "bytes": 47772,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "merch-eye-believe-hat-black.webp",
+    "sourceExport": [
+      4096,
+      4096
+    ],
+    "delivery": "images/display/merch-eye-believe-hat-black-960.webp",
+    "deliverySize": [
+      960,
+      960
+    ],
+    "bytes": 144302,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "merch-eye-believe-hat-black.webp",
+    "sourceExport": [
+      4096,
+      4096
+    ],
+    "delivery": "images/display/merch-eye-believe-hat-black-1440.webp",
+    "deliverySize": [
+      1440,
+      1440
+    ],
+    "bytes": 255384,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "merch-eye-believe-hat-lavender.webp",
+    "sourceExport": [
+      4096,
+      4096
+    ],
+    "delivery": "images/display/merch-eye-believe-hat-lavender-192.webp",
+    "deliverySize": [
+      192,
+      192
+    ],
+    "bytes": 11598,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "merch-eye-believe-hat-lavender.webp",
+    "sourceExport": [
+      4096,
+      4096
+    ],
+    "delivery": "images/display/merch-eye-believe-hat-lavender-480.webp",
+    "deliverySize": [
+      480,
+      480
+    ],
+    "bytes": 47302,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "merch-eye-believe-hat-lavender.webp",
+    "sourceExport": [
+      4096,
+      4096
+    ],
+    "delivery": "images/display/merch-eye-believe-hat-lavender-960.webp",
+    "deliverySize": [
+      960,
+      960
+    ],
+    "bytes": 144406,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "merch-eye-believe-hat-lavender.webp",
+    "sourceExport": [
+      4096,
+      4096
+    ],
+    "delivery": "images/display/merch-eye-believe-hat-lavender-1440.webp",
+    "deliverySize": [
+      1440,
+      1440
+    ],
+    "bytes": 255302,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "merch-eye-believe-hoodie-black.webp",
+    "sourceExport": [
+      4096,
+      4096
+    ],
+    "delivery": "images/display/merch-eye-believe-hoodie-black-192.webp",
+    "deliverySize": [
+      192,
+      192
+    ],
+    "bytes": 11224,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "merch-eye-believe-hoodie-black.webp",
+    "sourceExport": [
+      4096,
+      4096
+    ],
+    "delivery": "images/display/merch-eye-believe-hoodie-black-480.webp",
+    "deliverySize": [
+      480,
+      480
+    ],
+    "bytes": 44162,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "merch-eye-believe-hoodie-black.webp",
+    "sourceExport": [
+      4096,
+      4096
+    ],
+    "delivery": "images/display/merch-eye-believe-hoodie-black-960.webp",
+    "deliverySize": [
+      960,
+      960
+    ],
+    "bytes": 129674,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "merch-eye-believe-hoodie-black.webp",
+    "sourceExport": [
+      4096,
+      4096
+    ],
+    "delivery": "images/display/merch-eye-believe-hoodie-black-1440.webp",
+    "deliverySize": [
+      1440,
+      1440
+    ],
+    "bytes": 228970,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "merch-eye-believe-hoodie-lavender.webp",
+    "sourceExport": [
+      4096,
+      4096
+    ],
+    "delivery": "images/display/merch-eye-believe-hoodie-lavender-192.webp",
+    "deliverySize": [
+      192,
+      192
+    ],
+    "bytes": 10670,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "merch-eye-believe-hoodie-lavender.webp",
+    "sourceExport": [
+      4096,
+      4096
+    ],
+    "delivery": "images/display/merch-eye-believe-hoodie-lavender-480.webp",
+    "deliverySize": [
+      480,
+      480
+    ],
+    "bytes": 43268,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "merch-eye-believe-hoodie-lavender.webp",
+    "sourceExport": [
+      4096,
+      4096
+    ],
+    "delivery": "images/display/merch-eye-believe-hoodie-lavender-960.webp",
+    "deliverySize": [
+      960,
+      960
+    ],
+    "bytes": 127214,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "merch-eye-believe-hoodie-lavender.webp",
+    "sourceExport": [
+      4096,
+      4096
+    ],
+    "delivery": "images/display/merch-eye-believe-hoodie-lavender-1440.webp",
+    "deliverySize": [
+      1440,
+      1440
+    ],
+    "bytes": 223716,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "merch-eye-believe-lavender.webp",
+    "sourceExport": [
+      4096,
+      4096
+    ],
+    "delivery": "images/display/merch-eye-believe-lavender-192.webp",
+    "deliverySize": [
+      192,
+      192
+    ],
+    "bytes": 13206,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "merch-eye-believe-lavender.webp",
+    "sourceExport": [
+      4096,
+      4096
+    ],
+    "delivery": "images/display/merch-eye-believe-lavender-480.webp",
+    "deliverySize": [
+      480,
+      480
+    ],
+    "bytes": 83370,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "merch-eye-believe-lavender.webp",
+    "sourceExport": [
+      4096,
+      4096
+    ],
+    "delivery": "images/display/merch-eye-believe-lavender-960.webp",
+    "deliverySize": [
+      960,
+      960
+    ],
+    "bytes": 349768,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "merch-eye-believe-lavender.webp",
+    "sourceExport": [
+      4096,
+      4096
+    ],
+    "delivery": "images/display/merch-eye-believe-lavender-1440.webp",
+    "deliverySize": [
+      1440,
+      1440
+    ],
+    "bytes": 720536,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "merch-eye-believe-tanktop-black.webp",
+    "sourceExport": [
+      4096,
+      4096
+    ],
+    "delivery": "images/display/merch-eye-believe-tanktop-black-192.webp",
+    "deliverySize": [
+      192,
+      192
+    ],
+    "bytes": 5538,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "merch-eye-believe-tanktop-black.webp",
+    "sourceExport": [
+      4096,
+      4096
+    ],
+    "delivery": "images/display/merch-eye-believe-tanktop-black-480.webp",
+    "deliverySize": [
+      480,
+      480
+    ],
+    "bytes": 21540,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "merch-eye-believe-tanktop-black.webp",
+    "sourceExport": [
+      4096,
+      4096
+    ],
+    "delivery": "images/display/merch-eye-believe-tanktop-black-960.webp",
+    "deliverySize": [
+      960,
+      960
+    ],
+    "bytes": 57462,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "merch-eye-believe-tanktop-black.webp",
+    "sourceExport": [
+      4096,
+      4096
+    ],
+    "delivery": "images/display/merch-eye-believe-tanktop-black-1440.webp",
+    "deliverySize": [
+      1440,
+      1440
+    ],
+    "bytes": 100200,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "merch-eye-believe-tanktop-white.webp",
+    "sourceExport": [
+      4096,
+      4096
+    ],
+    "delivery": "images/display/merch-eye-believe-tanktop-white-192.webp",
+    "deliverySize": [
+      192,
+      192
+    ],
+    "bytes": 9408,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "merch-eye-believe-tanktop-white.webp",
+    "sourceExport": [
+      4096,
+      4096
+    ],
+    "delivery": "images/display/merch-eye-believe-tanktop-white-480.webp",
+    "deliverySize": [
+      480,
+      480
+    ],
+    "bytes": 40678,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "merch-eye-believe-tanktop-white.webp",
+    "sourceExport": [
+      4096,
+      4096
+    ],
+    "delivery": "images/display/merch-eye-believe-tanktop-white-960.webp",
+    "deliverySize": [
+      960,
+      960
+    ],
+    "bytes": 133834,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "merch-eye-believe-tanktop-white.webp",
+    "sourceExport": [
+      4096,
+      4096
+    ],
+    "delivery": "images/display/merch-eye-believe-tanktop-white-1440.webp",
+    "deliverySize": [
+      1440,
+      1440
+    ],
+    "bytes": 234438,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "merch-eye-believe-tanktop.webp",
+    "sourceExport": [
+      4096,
+      4096
+    ],
+    "delivery": "images/display/merch-eye-believe-tanktop-192.webp",
+    "deliverySize": [
+      192,
+      192
+    ],
+    "bytes": 14258,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "merch-eye-believe-tanktop.webp",
+    "sourceExport": [
+      4096,
+      4096
+    ],
+    "delivery": "images/display/merch-eye-believe-tanktop-480.webp",
+    "deliverySize": [
+      480,
+      480
+    ],
+    "bytes": 61802,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "merch-eye-believe-tanktop.webp",
+    "sourceExport": [
+      4096,
+      4096
+    ],
+    "delivery": "images/display/merch-eye-believe-tanktop-960.webp",
+    "deliverySize": [
+      960,
+      960
+    ],
+    "bytes": 196214,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "merch-eye-believe-tanktop.webp",
+    "sourceExport": [
+      4096,
+      4096
+    ],
+    "delivery": "images/display/merch-eye-believe-tanktop-1440.webp",
+    "deliverySize": [
+      1440,
+      1440
+    ],
+    "bytes": 351140,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "merch-eye-believe-vneck-black.webp",
+    "sourceExport": [
+      4096,
+      4096
+    ],
+    "delivery": "images/display/merch-eye-believe-vneck-black-192.webp",
+    "deliverySize": [
+      192,
+      192
+    ],
+    "bytes": 11008,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "merch-eye-believe-vneck-black.webp",
+    "sourceExport": [
+      4096,
+      4096
+    ],
+    "delivery": "images/display/merch-eye-believe-vneck-black-480.webp",
+    "deliverySize": [
+      480,
+      480
+    ],
+    "bytes": 74120,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "merch-eye-believe-vneck-black.webp",
+    "sourceExport": [
+      4096,
+      4096
+    ],
+    "delivery": "images/display/merch-eye-believe-vneck-black-960.webp",
+    "deliverySize": [
+      960,
+      960
+    ],
+    "bytes": 315830,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "merch-eye-believe-vneck-black.webp",
+    "sourceExport": [
+      4096,
+      4096
+    ],
+    "delivery": "images/display/merch-eye-believe-vneck-black-1440.webp",
+    "deliverySize": [
+      1440,
+      1440
+    ],
+    "bytes": 630126,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "merch-eye-believe-vneck-lavender.webp",
+    "sourceExport": [
+      4096,
+      4096
+    ],
+    "delivery": "images/display/merch-eye-believe-vneck-lavender-192.webp",
+    "deliverySize": [
+      192,
+      192
+    ],
+    "bytes": 13206,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "merch-eye-believe-vneck-lavender.webp",
+    "sourceExport": [
+      4096,
+      4096
+    ],
+    "delivery": "images/display/merch-eye-believe-vneck-lavender-480.webp",
+    "deliverySize": [
+      480,
+      480
+    ],
+    "bytes": 83370,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "merch-eye-believe-vneck-lavender.webp",
+    "sourceExport": [
+      4096,
+      4096
+    ],
+    "delivery": "images/display/merch-eye-believe-vneck-lavender-960.webp",
+    "deliverySize": [
+      960,
+      960
+    ],
+    "bytes": 349768,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "merch-eye-believe-vneck-lavender.webp",
+    "sourceExport": [
+      4096,
+      4096
+    ],
+    "delivery": "images/display/merch-eye-believe-vneck-lavender-1440.webp",
+    "deliverySize": [
+      1440,
+      1440
+    ],
+    "bytes": 720536,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "merch-eye-believe-vneck-white.webp",
+    "sourceExport": [
+      4096,
+      4096
+    ],
+    "delivery": "images/display/merch-eye-believe-vneck-white-192.webp",
+    "deliverySize": [
+      192,
+      192
+    ],
+    "bytes": 13086,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "merch-eye-believe-vneck-white.webp",
+    "sourceExport": [
+      4096,
+      4096
+    ],
+    "delivery": "images/display/merch-eye-believe-vneck-white-480.webp",
+    "deliverySize": [
+      480,
+      480
+    ],
+    "bytes": 79156,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "merch-eye-believe-vneck-white.webp",
+    "sourceExport": [
+      4096,
+      4096
+    ],
+    "delivery": "images/display/merch-eye-believe-vneck-white-960.webp",
+    "deliverySize": [
+      960,
+      960
+    ],
+    "bytes": 334682,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "merch-eye-believe-vneck-white.webp",
+    "sourceExport": [
+      4096,
+      4096
+    ],
+    "delivery": "images/display/merch-eye-believe-vneck-white-1440.webp",
+    "deliverySize": [
+      1440,
+      1440
+    ],
+    "bytes": 694754,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "merch-eye-believe-white.webp",
+    "sourceExport": [
+      4096,
+      4096
+    ],
+    "delivery": "images/display/merch-eye-believe-white-192.webp",
+    "deliverySize": [
+      192,
+      192
+    ],
+    "bytes": 13086,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "merch-eye-believe-white.webp",
+    "sourceExport": [
+      4096,
+      4096
+    ],
+    "delivery": "images/display/merch-eye-believe-white-480.webp",
+    "deliverySize": [
+      480,
+      480
+    ],
+    "bytes": 79156,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "merch-eye-believe-white.webp",
+    "sourceExport": [
+      4096,
+      4096
+    ],
+    "delivery": "images/display/merch-eye-believe-white-960.webp",
+    "deliverySize": [
+      960,
+      960
+    ],
+    "bytes": 334682,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "merch-eye-believe-white.webp",
+    "sourceExport": [
+      4096,
+      4096
+    ],
+    "delivery": "images/display/merch-eye-believe-white-1440.webp",
+    "deliverySize": [
+      1440,
+      1440
+    ],
+    "bytes": 694754,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "merch-eye-believe-womens-vneck-black.webp",
+    "sourceExport": [
+      4096,
+      4096
+    ],
+    "delivery": "images/display/merch-eye-believe-womens-vneck-black-192.webp",
+    "deliverySize": [
+      192,
+      192
+    ],
+    "bytes": 6528,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "merch-eye-believe-womens-vneck-black.webp",
+    "sourceExport": [
+      4096,
+      4096
+    ],
+    "delivery": "images/display/merch-eye-believe-womens-vneck-black-480.webp",
+    "deliverySize": [
+      480,
+      480
+    ],
+    "bytes": 25644,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "merch-eye-believe-womens-vneck-black.webp",
+    "sourceExport": [
+      4096,
+      4096
+    ],
+    "delivery": "images/display/merch-eye-believe-womens-vneck-black-960.webp",
+    "deliverySize": [
+      960,
+      960
+    ],
+    "bytes": 68322,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "merch-eye-believe-womens-vneck-black.webp",
+    "sourceExport": [
+      4096,
+      4096
+    ],
+    "delivery": "images/display/merch-eye-believe-womens-vneck-black-1440.webp",
+    "deliverySize": [
+      1440,
+      1440
+    ],
+    "bytes": 118972,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "merch-eye-believe-womens-vneck-white.webp",
+    "sourceExport": [
+      4096,
+      4096
+    ],
+    "delivery": "images/display/merch-eye-believe-womens-vneck-white-192.webp",
+    "deliverySize": [
+      192,
+      192
+    ],
+    "bytes": 11536,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "merch-eye-believe-womens-vneck-white.webp",
+    "sourceExport": [
+      4096,
+      4096
+    ],
+    "delivery": "images/display/merch-eye-believe-womens-vneck-white-480.webp",
+    "deliverySize": [
+      480,
+      480
+    ],
+    "bytes": 52724,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "merch-eye-believe-womens-vneck-white.webp",
+    "sourceExport": [
+      4096,
+      4096
+    ],
+    "delivery": "images/display/merch-eye-believe-womens-vneck-white-960.webp",
+    "deliverySize": [
+      960,
+      960
+    ],
+    "bytes": 158284,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "merch-eye-believe-womens-vneck-white.webp",
+    "sourceExport": [
+      4096,
+      4096
+    ],
+    "delivery": "images/display/merch-eye-believe-womens-vneck-white-1440.webp",
+    "deliverySize": [
+      1440,
+      1440
+    ],
+    "bytes": 276072,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "merch-eye-believe-womens-vneck.webp",
+    "sourceExport": [
+      4096,
+      4096
+    ],
+    "delivery": "images/display/merch-eye-believe-womens-vneck-192.webp",
+    "deliverySize": [
+      192,
+      192
+    ],
+    "bytes": 16416,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "merch-eye-believe-womens-vneck.webp",
+    "sourceExport": [
+      4096,
+      4096
+    ],
+    "delivery": "images/display/merch-eye-believe-womens-vneck-480.webp",
+    "deliverySize": [
+      480,
+      480
+    ],
+    "bytes": 76788,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "merch-eye-believe-womens-vneck.webp",
+    "sourceExport": [
+      4096,
+      4096
+    ],
+    "delivery": "images/display/merch-eye-believe-womens-vneck-960.webp",
+    "deliverySize": [
+      960,
+      960
+    ],
+    "bytes": 241426,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "merch-eye-believe-womens-vneck.webp",
+    "sourceExport": [
+      4096,
+      4096
+    ],
+    "delivery": "images/display/merch-eye-believe-womens-vneck-1440.webp",
+    "deliverySize": [
+      1440,
+      1440
+    ],
+    "bytes": 432886,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "merch-love-is-love-black.webp",
+    "sourceExport": [
+      4096,
+      4096
+    ],
+    "delivery": "images/display/merch-love-is-love-black-192.webp",
+    "deliverySize": [
+      192,
+      192
+    ],
+    "bytes": 15014,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "merch-love-is-love-black.webp",
+    "sourceExport": [
+      4096,
+      4096
+    ],
+    "delivery": "images/display/merch-love-is-love-black-480.webp",
+    "deliverySize": [
+      480,
+      480
+    ],
+    "bytes": 77706,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "merch-love-is-love-black.webp",
+    "sourceExport": [
+      4096,
+      4096
+    ],
+    "delivery": "images/display/merch-love-is-love-black-960.webp",
+    "deliverySize": [
+      960,
+      960
+    ],
+    "bytes": 241266,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "merch-love-is-love-black.webp",
+    "sourceExport": [
+      4096,
+      4096
+    ],
+    "delivery": "images/display/merch-love-is-love-black-1440.webp",
+    "deliverySize": [
+      1440,
+      1440
+    ],
+    "bytes": 437058,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "merch-love-is-love-lavender.webp",
+    "sourceExport": [
+      4096,
+      4096
+    ],
+    "delivery": "images/display/merch-love-is-love-lavender-192.webp",
+    "deliverySize": [
+      192,
+      192
+    ],
+    "bytes": 12608,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "merch-love-is-love-lavender.webp",
+    "sourceExport": [
+      4096,
+      4096
+    ],
+    "delivery": "images/display/merch-love-is-love-lavender-480.webp",
+    "deliverySize": [
+      480,
+      480
+    ],
+    "bytes": 62642,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "merch-love-is-love-lavender.webp",
+    "sourceExport": [
+      4096,
+      4096
+    ],
+    "delivery": "images/display/merch-love-is-love-lavender-960.webp",
+    "deliverySize": [
+      960,
+      960
+    ],
+    "bytes": 215684,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "merch-love-is-love-lavender.webp",
+    "sourceExport": [
+      4096,
+      4096
+    ],
+    "delivery": "images/display/merch-love-is-love-lavender-1440.webp",
+    "deliverySize": [
+      1440,
+      1440
+    ],
+    "bytes": 407536,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "merch-love-is-love-white.webp",
+    "sourceExport": [
+      4096,
+      4096
+    ],
+    "delivery": "images/display/merch-love-is-love-white-192.webp",
+    "deliverySize": [
+      192,
+      192
+    ],
+    "bytes": 13200,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "merch-love-is-love-white.webp",
+    "sourceExport": [
+      4096,
+      4096
+    ],
+    "delivery": "images/display/merch-love-is-love-white-480.webp",
+    "deliverySize": [
+      480,
+      480
+    ],
+    "bytes": 57538,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "merch-love-is-love-white.webp",
+    "sourceExport": [
+      4096,
+      4096
+    ],
+    "delivery": "images/display/merch-love-is-love-white-960.webp",
+    "deliverySize": [
+      960,
+      960
+    ],
+    "bytes": 173984,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "merch-love-is-love-white.webp",
+    "sourceExport": [
+      4096,
+      4096
+    ],
+    "delivery": "images/display/merch-love-is-love-white-1440.webp",
+    "deliverySize": [
+      1440,
+      1440
+    ],
+    "bytes": 313172,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "merch-love-is-love.webp",
+    "sourceExport": [
+      4096,
+      4096
+    ],
+    "delivery": "images/display/merch-love-is-love-192.webp",
+    "deliverySize": [
+      192,
+      192
+    ],
+    "bytes": 14264,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "merch-love-is-love.webp",
+    "sourceExport": [
+      4096,
+      4096
+    ],
+    "delivery": "images/display/merch-love-is-love-480.webp",
+    "deliverySize": [
+      480,
+      480
+    ],
+    "bytes": 78828,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "merch-love-is-love.webp",
+    "sourceExport": [
+      4096,
+      4096
+    ],
+    "delivery": "images/display/merch-love-is-love-960.webp",
+    "deliverySize": [
+      960,
+      960
+    ],
+    "bytes": 266842,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "merch-love-is-love.webp",
+    "sourceExport": [
+      4096,
+      4096
+    ],
+    "delivery": "images/display/merch-love-is-love-1440.webp",
+    "deliverySize": [
+      1440,
+      1440
+    ],
+    "bytes": 481246,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "notes-by-beth.webp",
+    "sourceExport": [
+      4128,
+      2304
+    ],
+    "delivery": "images/display/notes-by-beth-192.webp",
+    "deliverySize": [
+      192,
+      107
+    ],
+    "bytes": 12110,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "notes-by-beth.webp",
+    "sourceExport": [
+      4128,
+      2304
+    ],
+    "delivery": "images/display/notes-by-beth-480.webp",
+    "deliverySize": [
+      480,
+      268
+    ],
+    "bytes": 66372,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "notes-by-beth.webp",
+    "sourceExport": [
+      4128,
+      2304
+    ],
+    "delivery": "images/display/notes-by-beth-960.webp",
+    "deliverySize": [
+      960,
+      536
+    ],
+    "bytes": 241682,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "notes-by-beth.webp",
+    "sourceExport": [
+      4128,
+      2304
+    ],
+    "delivery": "images/display/notes-by-beth-1440.webp",
+    "deliverySize": [
+      1440,
+      804
+    ],
+    "bytes": 480040,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "og-card.webp",
+    "sourceExport": [
+      4096,
+      2150
+    ],
+    "delivery": "images/display/og-card-192.webp",
+    "deliverySize": [
+      192,
+      101
+    ],
+    "bytes": 11688,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "og-card.webp",
+    "sourceExport": [
+      4096,
+      2150
+    ],
+    "delivery": "images/display/og-card-480.webp",
+    "deliverySize": [
+      480,
+      252
+    ],
+    "bytes": 66048,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "og-card.webp",
+    "sourceExport": [
+      4096,
+      2150
+    ],
+    "delivery": "images/display/og-card-960.webp",
+    "deliverySize": [
+      960,
+      504
+    ],
+    "bytes": 231576,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "og-card.webp",
+    "sourceExport": [
+      4096,
+      2150
+    ],
+    "delivery": "images/display/og-card-1440.webp",
+    "deliverySize": [
+      1440,
+      756
+    ],
+    "bytes": 448692,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "photorealistic_glinda_bubble_orb.webp",
+    "sourceExport": [
+      4096,
+      4096
+    ],
+    "delivery": "images/display/photorealistic_glinda_bubble_orb-192.webp",
+    "deliverySize": [
+      192,
+      192
+    ],
+    "bytes": 21702,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "photorealistic_glinda_bubble_orb.webp",
+    "sourceExport": [
+      4096,
+      4096
+    ],
+    "delivery": "images/display/photorealistic_glinda_bubble_orb-480.webp",
+    "deliverySize": [
+      480,
+      480
+    ],
+    "bytes": 104594,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "photorealistic_glinda_bubble_orb.webp",
+    "sourceExport": [
+      4096,
+      4096
+    ],
+    "delivery": "images/display/photorealistic_glinda_bubble_orb-960.webp",
+    "deliverySize": [
+      960,
+      960
+    ],
+    "bytes": 355328,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "photorealistic_glinda_bubble_orb.webp",
+    "sourceExport": [
+      4096,
+      4096
+    ],
+    "delivery": "images/display/photorealistic_glinda_bubble_orb-1440.webp",
+    "deliverySize": [
+      1440,
+      1440
+    ],
+    "bytes": 660218,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "photorealistic_purple_iris_orb.webp",
+    "sourceExport": [
+      4096,
+      4096
+    ],
+    "delivery": "images/display/photorealistic_purple_iris_orb-192.webp",
+    "deliverySize": [
+      192,
+      192
+    ],
+    "bytes": 25240,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "photorealistic_purple_iris_orb.webp",
+    "sourceExport": [
+      4096,
+      4096
+    ],
+    "delivery": "images/display/photorealistic_purple_iris_orb-480.webp",
+    "deliverySize": [
+      480,
+      480
+    ],
+    "bytes": 126768,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "photorealistic_purple_iris_orb.webp",
+    "sourceExport": [
+      4096,
+      4096
+    ],
+    "delivery": "images/display/photorealistic_purple_iris_orb-960.webp",
+    "deliverySize": [
+      960,
+      960
+    ],
+    "bytes": 402624,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "photorealistic_purple_iris_orb.webp",
+    "sourceExport": [
+      4096,
+      4096
+    ],
+    "delivery": "images/display/photorealistic_purple_iris_orb-1440.webp",
+    "deliverySize": [
+      1440,
+      1440
+    ],
+    "bytes": 715636,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "portrait.webp",
+    "sourceExport": [
+      4062,
+      4096
+    ],
+    "delivery": "images/display/portrait-192.webp",
+    "deliverySize": [
+      192,
+      194
+    ],
+    "bytes": 9670,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "portrait.webp",
+    "sourceExport": [
+      4062,
+      4096
+    ],
+    "delivery": "images/display/portrait-480.webp",
+    "deliverySize": [
+      480,
+      484
+    ],
+    "bytes": 41410,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "portrait.webp",
+    "sourceExport": [
+      4062,
+      4096
+    ],
+    "delivery": "images/display/portrait-960.webp",
+    "deliverySize": [
+      960,
+      968
+    ],
+    "bytes": 113726,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "portrait.webp",
+    "sourceExport": [
+      4062,
+      4096
+    ],
+    "delivery": "images/display/portrait-1440.webp",
+    "deliverySize": [
+      1440,
+      1452
+    ],
+    "bytes": 184746,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "services-bg.webp",
+    "sourceExport": [
+      4096,
+      4096
+    ],
+    "delivery": "images/display/services-bg-192.webp",
+    "deliverySize": [
+      192,
+      192
+    ],
+    "bytes": 16984,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "services-bg.webp",
+    "sourceExport": [
+      4096,
+      4096
+    ],
+    "delivery": "images/display/services-bg-480.webp",
+    "deliverySize": [
+      480,
+      480
+    ],
+    "bytes": 103100,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "services-bg.webp",
+    "sourceExport": [
+      4096,
+      4096
+    ],
+    "delivery": "images/display/services-bg-960.webp",
+    "deliverySize": [
+      960,
+      960
+    ],
+    "bytes": 362050,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "services-bg.webp",
+    "sourceExport": [
+      4096,
+      4096
+    ],
+    "delivery": "images/display/services-bg-1440.webp",
+    "deliverySize": [
+      1440,
+      1440
+    ],
+    "bytes": 636624,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "avatar_body.webp",
+    "sourceExport": [
+      4096,
+      4096
+    ],
+    "delivery": "images/runtime/mobile/avatar_body.webp",
+    "deliverySize": [
+      512,
+      512
+    ],
+    "bytes": 39510,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "avatar_body.webp",
+    "sourceExport": [
+      4096,
+      4096
+    ],
+    "delivery": "images/runtime/desktop/avatar_body.webp",
+    "deliverySize": [
+      1024,
+      1024
+    ],
+    "bytes": 109808,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "avatar_wing_left.webp",
+    "sourceExport": [
+      4096,
+      4096
+    ],
+    "delivery": "images/runtime/mobile/avatar_wing_left.webp",
+    "deliverySize": [
+      512,
+      512
+    ],
+    "bytes": 4226,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "avatar_wing_left.webp",
+    "sourceExport": [
+      4096,
+      4096
+    ],
+    "delivery": "images/runtime/desktop/avatar_wing_left.webp",
+    "deliverySize": [
+      1024,
+      1024
+    ],
+    "bytes": 10436,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "avatar_wing_right.webp",
+    "sourceExport": [
+      4096,
+      4096
+    ],
+    "delivery": "images/runtime/mobile/avatar_wing_right.webp",
+    "deliverySize": [
+      512,
+      512
+    ],
+    "bytes": 9012,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "avatar_wing_right.webp",
+    "sourceExport": [
+      4096,
+      4096
+    ],
+    "delivery": "images/runtime/desktop/avatar_wing_right.webp",
+    "deliverySize": [
+      1024,
+      1024
+    ],
+    "bytes": 25344,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "avatar_train.webp",
+    "sourceExport": [
+      4096,
+      4096
+    ],
+    "delivery": "images/runtime/mobile/avatar_train.webp",
+    "deliverySize": [
+      512,
+      512
+    ],
+    "bytes": 6686,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "avatar_train.webp",
+    "sourceExport": [
+      4096,
+      4096
+    ],
+    "delivery": "images/runtime/desktop/avatar_train.webp",
+    "deliverySize": [
+      1024,
+      1024
+    ],
+    "bytes": 18628,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "photorealistic_glinda_bubble_orb.webp",
+    "sourceExport": [
+      4096,
+      4096
+    ],
+    "delivery": "images/runtime/mobile/photorealistic_glinda_bubble_orb.webp",
+    "deliverySize": [
+      512,
+      512
+    ],
+    "bytes": 117994,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "photorealistic_glinda_bubble_orb.webp",
+    "sourceExport": [
+      4096,
+      4096
+    ],
+    "delivery": "images/runtime/desktop/photorealistic_glinda_bubble_orb.webp",
+    "deliverySize": [
+      1024,
+      1024
+    ],
+    "bytes": 399870,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "photorealistic_purple_iris_orb.webp",
+    "sourceExport": [
+      4096,
+      4096
+    ],
+    "delivery": "images/runtime/mobile/photorealistic_purple_iris_orb.webp",
+    "deliverySize": [
+      512,
+      512
+    ],
+    "bytes": 143664,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "photorealistic_purple_iris_orb.webp",
+    "sourceExport": [
+      4096,
+      4096
+    ],
+    "delivery": "images/runtime/desktop/photorealistic_purple_iris_orb.webp",
+    "deliverySize": [
+      1024,
+      1024
+    ],
+    "bytes": 450480,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "butterfly-cinematic.webp",
+    "sourceExport": [
+      2048,
+      2048
+    ],
+    "delivery": "images/runtime/mobile/butterfly-cinematic.webp",
+    "deliverySize": [
+      512,
+      512
+    ],
+    "bytes": 92654,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "butterfly-cinematic.webp",
+    "sourceExport": [
+      2048,
+      2048
+    ],
+    "delivery": "images/runtime/desktop/butterfly-cinematic.webp",
+    "deliverySize": [
+      1024,
+      1024
+    ],
+    "bytes": 374528,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "butterfly-monarch.webp",
+    "sourceExport": [
+      2048,
+      2048
+    ],
+    "delivery": "images/runtime/mobile/butterfly-monarch.webp",
+    "deliverySize": [
+      512,
+      512
+    ],
+    "bytes": 89358,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "butterfly-monarch.webp",
+    "sourceExport": [
+      2048,
+      2048
+    ],
+    "delivery": "images/runtime/desktop/butterfly-monarch.webp",
+    "deliverySize": [
+      1024,
+      1024
+    ],
+    "bytes": 305576,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "butterfly-swallowtail.webp",
+    "sourceExport": [
+      2048,
+      2048
+    ],
+    "delivery": "images/runtime/mobile/butterfly-swallowtail.webp",
+    "deliverySize": [
+      512,
+      512
+    ],
+    "bytes": 76274,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "butterfly-swallowtail.webp",
+    "sourceExport": [
+      2048,
+      2048
+    ],
+    "delivery": "images/runtime/desktop/butterfly-swallowtail.webp",
+    "deliverySize": [
+      1024,
+      1024
+    ],
+    "bytes": 267438,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "butterfly-orange-tip.webp",
+    "sourceExport": [
+      2048,
+      2048
+    ],
+    "delivery": "images/runtime/mobile/butterfly-orange-tip.webp",
+    "deliverySize": [
+      512,
+      512
+    ],
+    "bytes": 72258,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "butterfly-orange-tip.webp",
+    "sourceExport": [
+      2048,
+      2048
+    ],
+    "delivery": "images/runtime/desktop/butterfly-orange-tip.webp",
+    "deliverySize": [
+      1024,
+      1024
+    ],
+    "bytes": 257418,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "eye-iris-natural.webp",
+    "sourceExport": [
+      2048,
+      2048
+    ],
+    "delivery": "images/runtime/mobile/eye-iris-natural.webp",
+    "deliverySize": [
+      512,
+      512
+    ],
+    "bytes": 109292,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "eye-iris-natural.webp",
+    "sourceExport": [
+      2048,
+      2048
+    ],
+    "delivery": "images/runtime/desktop/eye-iris-natural.webp",
+    "deliverySize": [
+      1024,
+      1024
+    ],
+    "bytes": 365354,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "crystal_nebula_panorama.webp",
+    "sourceExport": [
+      4096,
+      2048
+    ],
+    "delivery": "images/runtime/mobile/crystal_nebula_panorama.webp",
+    "deliverySize": [
+      1024,
+      512
+    ],
+    "bytes": 203638,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "crystal_nebula_panorama.webp",
+    "sourceExport": [
+      4096,
+      2048
+    ],
+    "delivery": "images/runtime/desktop/crystal_nebula_panorama.webp",
+    "deliverySize": [
+      2048,
+      1024
+    ],
+    "bytes": 585656,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "crystal_glass_specular.webp",
+    "sourceExport": [
+      4096,
+      4096
+    ],
+    "delivery": "images/runtime/mobile/crystal_glass_specular.webp",
+    "deliverySize": [
+      512,
+      512
+    ],
+    "bytes": 51864,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "crystal_glass_specular.webp",
+    "sourceExport": [
+      4096,
+      4096
+    ],
+    "delivery": "images/runtime/desktop/crystal_glass_specular.webp",
+    "deliverySize": [
+      1024,
+      1024
+    ],
+    "bytes": 128932,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "merch-eye-believe-hoodie-lavender.webp",
+    "sourceExport": [
+      4096,
+      4096
+    ],
+    "delivery": "images/runtime/mobile/merch-eye-believe-hoodie-lavender.webp",
+    "deliverySize": [
+      512,
+      512
+    ],
+    "bytes": 48842,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "merch-eye-believe-hoodie-lavender.webp",
+    "sourceExport": [
+      4096,
+      4096
+    ],
+    "delivery": "images/runtime/desktop/merch-eye-believe-hoodie-lavender.webp",
+    "deliverySize": [
+      1024,
+      1024
+    ],
+    "bytes": 150886,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "chakra-watercolor-transparent.webp",
+    "sourceExport": [
+      2756,
+      4108
+    ],
+    "delivery": "images/runtime/mobile/chakra-watercolor-transparent.webp",
+    "deliverySize": [
+      512,
+      763
+    ],
+    "bytes": 134356,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "chakra-watercolor-transparent.webp",
+    "sourceExport": [
+      2756,
+      4108
+    ],
+    "delivery": "images/runtime/desktop/chakra-watercolor-transparent.webp",
+    "deliverySize": [
+      1024,
+      1526
+    ],
+    "bytes": 400720,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "aura-silhouette-glow.webp",
+    "sourceExport": [
+      4096,
+      4096
+    ],
+    "delivery": "images/runtime/mobile/aura-silhouette-glow.webp",
+    "deliverySize": [
+      512,
+      512
+    ],
+    "bytes": 114134,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "aura-silhouette-glow.webp",
+    "sourceExport": [
+      4096,
+      4096
+    ],
+    "delivery": "images/runtime/desktop/aura-silhouette-glow.webp",
+    "deliverySize": [
+      1024,
+      1024
+    ],
+    "bytes": 357814,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "notes-by-beth.webp",
+    "sourceExport": [
+      4128,
+      2304
+    ],
+    "delivery": "images/runtime/mobile/notes-by-beth.webp",
+    "deliverySize": [
+      512,
+      286
+    ],
+    "bytes": 75410,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "notes-by-beth.webp",
+    "sourceExport": [
+      4128,
+      2304
+    ],
+    "delivery": "images/runtime/desktop/notes-by-beth.webp",
+    "deliverySize": [
+      1024,
+      572
+    ],
+    "bytes": 270650,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "portrait.webp",
+    "sourceExport": [
+      4062,
+      4096
+    ],
+    "delivery": "images/runtime/mobile/portrait.webp",
+    "deliverySize": [
+      512,
+      516
+    ],
+    "bytes": 45344,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "portrait.webp",
+    "sourceExport": [
+      4062,
+      4096
+    ],
+    "delivery": "images/runtime/desktop/portrait.webp",
+    "deliverySize": [
+      1024,
+      1033
+    ],
+    "bytes": 123054,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "merch-eye-believe-hat-black.webp",
+    "sourceExport": [
+      4096,
+      4096
+    ],
+    "delivery": "images/runtime/mobile/merch-eye-believe-hat-black.webp",
+    "deliverySize": [
+      512,
+      512
+    ],
+    "bytes": 54126,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "merch-eye-believe-hat-black.webp",
+    "sourceExport": [
+      4096,
+      4096
+    ],
+    "delivery": "images/runtime/desktop/merch-eye-believe-hat-black.webp",
+    "deliverySize": [
+      1024,
+      1024
+    ],
+    "bytes": 173418,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "hero-bg.webp",
+    "sourceExport": [
+      4128,
+      2304
+    ],
+    "delivery": "images/runtime/mobile/hero-bg.webp",
+    "deliverySize": [
+      2580,
+      1440
+    ],
+    "bytes": 1104030,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "services-bg.webp",
+    "sourceExport": [
+      4096,
+      4096
+    ],
+    "delivery": "images/runtime/mobile/services-bg.webp",
+    "deliverySize": [
+      1440,
+      1440
+    ],
+    "bytes": 636624,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "footer-bg.webp",
+    "sourceExport": [
+      4128,
+      2304
+    ],
+    "delivery": "images/runtime/mobile/footer-bg.webp",
+    "deliverySize": [
+      2064,
+      1152
+    ],
+    "bytes": 878112,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "icon-eye.webp",
+    "sourceExport": [
+      4096,
+      4096
+    ],
+    "delivery": "images/runtime/icon-eye.webp",
+    "deliverySize": [
+      192,
+      192
+    ],
+    "bytes": 25240,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  },
+  {
+    "source": "icon-orb.webp",
+    "sourceExport": [
+      4096,
+      4096
+    ],
+    "delivery": "images/runtime/icon-orb.webp",
+    "deliverySize": [
+      192,
+      192
+    ],
+    "bytes": 26898,
+    "method": "Resize unchanged existing artwork; no generation, crop or recoloring"
+  }
+]

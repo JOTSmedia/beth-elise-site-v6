@@ -1,0 +1,332 @@
+[
+  {
+    "name": "avatar_body.webp",
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "bbox": [
+      312,
+      35,
+      858,
+      820
+    ],
+    "sha256": "206952c8d065e9a973f004cbca7c2166011d0fefa55f19cab4681b77f18622a1"
+  },
+  {
+    "name": "avatar_body.png",
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "bbox": [
+      312,
+      35,
+      858,
+      820
+    ],
+    "sha256": "edd84b330adbc69e7244c9275022cba55c4c661b697ec294654ff90f3fa3cf02"
+  },
+  {
+    "name": "avatar_wing_left.png",
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "bbox": [
+      312,
+      125,
+      407,
+      391
+    ],
+    "sha256": "27bde894b16cbacf43d6296d1b6e9d054e3ab8f012aa3c747191c6b7cb2b2f3c"
+  },
+  {
+    "name": "avatar_wing_left.webp",
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "bbox": [
+      312,
+      125,
+      407,
+      391
+    ],
+    "sha256": "38890fcce3aa29ceb07d0cb63e78fc48ad82993c76b006b72fb9257383105bc1"
+  },
+  {
+    "name": "avatar_wing_right.webp",
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "bbox": [
+      632,
+      94,
+      858,
+      485
+    ],
+    "sha256": "04516eeb01a74969d5508c0bee0ca682ebf83865856273f28750f398c129854f"
+  },
+  {
+    "name": "avatar_wing_right.png",
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "bbox": [
+      632,
+      94,
+      858,
+      485
+    ],
+    "sha256": "80f2b86dd1ded478b29a43ecc108df044f973558661a072671158ec7b2faa5cf"
+  },
+  {
+    "name": "avatar_train.png",
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "bbox": [
+      562,
+      602,
+      834,
+      861
+    ],
+    "sha256": "f9c73f3a3c4cc401cd7e323495791fab20c2dc4bb4ab8290e09aef5fd34f9ef2"
+  },
+  {
+    "name": "avatar_train.webp",
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "bbox": [
+      562,
+      602,
+      834,
+      861
+    ],
+    "sha256": "891d7f77db88c004852d05e8103f65d2fe13c5ae6bb187acfe6bb80787027e00"
+  },
+  {
+    "name": "photorealistic_avatar_transparent.png",
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "bbox": [
+      0,
+      34,
+      1024,
+      1024
+    ],
+    "sha256": "5856728813844e862a39eb744b3953cc7eb6cbcae943ed10aae4c0150c154f45"
+  },
+  {
+    "name": "photorealistic_glinda_bubble_orb.png",
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "bbox": [
+      77,
+      77,
+      948,
+      948
+    ],
+    "sha256": "8281f58757528acfec3feca2e6904732a4df42822797139b7e8d4b2dd7caf12f"
+  },
+  {
+    "name": "photorealistic_glinda_bubble_orb.webp",
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "bbox": [
+      77,
+      77,
+      948,
+      948
+    ],
+    "sha256": "502496325df82b1c73b53336d1e872c95fc59844d0bafaa28a477428f2e73a38"
+  },
+  {
+    "name": "photorealistic_purple_iris_orb.webp",
+    "size": [
+      396,
+      396
+    ],
+    "mode": "RGBA",
+    "bbox": [
+      0,
+      0,
+      396,
+      396
+    ],
+    "sha256": "4adb03a1782d52f4b82f2afbbd1fbfd4067b5c338cb92ba07b857e3afe7e4a36"
+  },
+  {
+    "name": "photorealistic_purple_iris_orb.png",
+    "size": [
+      396,
+      396
+    ],
+    "mode": "RGBA",
+    "bbox": [
+      0,
+      0,
+      396,
+      396
+    ],
+    "sha256": "9885f5b8cd53d271f03cb3b43268e8d900b86b001ebecf6744e8aaeba2d98b5f"
+  },
+  {
+    "name": "crystal_nebula_panorama.webp",
+    "size": [
+      1024,
+      512
+    ],
+    "mode": "RGB",
+    "bbox": [
+      0,
+      0,
+      1024,
+      512
+    ],
+    "sha256": "0a542b61f22b9a90e4fa6765f43480a2817917a5b0d9d7119f6ff2c1e6dafd27"
+  },
+  {
+    "name": "crystal_nebula_panorama.jpg",
+    "size": [
+      1240,
+      620
+    ],
+    "mode": "RGB",
+    "bbox": [
+      0,
+      0,
+      1240,
+      620
+    ],
+    "sha256": "a644d9a431033fb9121af8cd4291fefc6d7868cde01f12d9deaca7b041dc2849"
+  },
+  {
+    "name": "crystal_glass_specular.webp",
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "bbox": [
+      208,
+      123,
+      822,
+      726
+    ],
+    "sha256": "5994424ebef47b264c3512710760a442e0e82349b705bbef0ce2d244ed07eb89"
+  },
+  {
+    "name": "crystal_glass_specular.png",
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "bbox": [
+      208,
+      123,
+      822,
+      726
+    ],
+    "sha256": "9e13a1f7c291e946cac4f18ad0589a0ba942bba0be31b6c3fa845d8d1fcdc1f5"
+  },
+  {
+    "name": "crystal_ball_transparent.png",
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "bbox": [
+      0,
+      0,
+      1024,
+      1024
+    ],
+    "sha256": "1800deb2a82035112d173d431ea0b969a918c4b9bff0480f4f39b0d3a9c9607c"
+  },
+  {
+    "name": "icon-eye.png",
+    "size": [
+      256,
+      256
+    ],
+    "mode": "RGBA",
+    "bbox": [
+      0,
+      0,
+      256,
+      256
+    ],
+    "sha256": "ea5b051a6076e8747e2b2146e8019577bb745417b54943708f6cf830f614b594"
+  },
+  {
+    "name": "icon-eye.webp",
+    "size": [
+      256,
+      256
+    ],
+    "mode": "RGBA",
+    "bbox": [
+      0,
+      0,
+      256,
+      256
+    ],
+    "sha256": "01939744a3f486136fb1a971efc8c0b71eb48e8adf9c58bc07bb3babdb74bf5b"
+  },
+  {
+    "name": "icon-orb.png",
+    "size": [
+      256,
+      256
+    ],
+    "mode": "RGBA",
+    "bbox": [
+      0,
+      0,
+      256,
+      256
+    ],
+    "sha256": "074e9a5ff6480bc1b97db43626d3171bd23818f94cd2ce44c1234420e86bb2f9"
+  },
+  {
+    "name": "icon-orb.webp",
+    "size": [
+      256,
+      256
+    ],
+    "mode": "RGBA",
+    "bbox": [
+      0,
+      0,
+      256,
+      256
+    ],
+    "sha256": "908987ed09440d9ea76b9eb5d2ee59790fc1fd949811d787b94e735dfc6049cf"
+  }
+]

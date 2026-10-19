@@ -1,0 +1,55 @@
+{
+  "forest": [
+    {
+      "viewport": [
+        320,
+        700
+      ],
+      "finiteGeometry": true,
+      "balancedCanvasState": true,
+      "animationChangesOverTime": true,
+      "reducedMotionStable": true
+    },
+    {
+      "viewport": [
+        390,
+        844
+      ],
+      "finiteGeometry": true,
+      "balancedCanvasState": true,
+      "animationChangesOverTime": true,
+      "reducedMotionStable": true
+    },
+    {
+      "viewport": [
+        768,
+        1024
+      ],
+      "finiteGeometry": true,
+      "balancedCanvasState": true,
+      "animationChangesOverTime": true,
+      "reducedMotionStable": true
+    },
+    {
+      "viewport": [
+        1440,
+        900
+      ],
+      "finiteGeometry": true,
+      "balancedCanvasState": true,
+      "animationChangesOverTime": true,
+      "reducedMotionStable": true
+    },
+    {
+      "viewport": [
+        1920,
+        1080
+      ],
+      "finiteGeometry": true,
+      "balancedCanvasState": true,
+      "animationChangesOverTime": true,
+      "reducedMotionStable": true
+    }
+  ],
+  "eye": "Nine gaze/blink combinations draw finite geometry and restore canvas state."
+}

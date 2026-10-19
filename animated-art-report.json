@@ -1,0 +1,616 @@
+{
+  "mode": "built-in image_gen image editing, then Pillow format conversion and uniform resampling",
+  "generated": [
+    {
+      "stem": "photorealistic_glinda_bubble_orb",
+      "path": "/Users/bethrooney/.codex/generated_images/01a152b0-db98-75b1-accf-6191d5a4294c/exec-316f756f-96f5-485e-b533-15c876af3ddc.png",
+      "prompt": "Use case: style-transfer. Asset type: transparent animated cinematic glass orb sprite. Edit target: the supplied iridescent spherical bubble asset. Preserve EXACT original square composition: a single perfectly circular sphere, centered at normalized (0.5005,0.5005), outer silhouette from x=7.52% to 92.58% and y=7.52% to 92.58%. Upgrade to realistic cinema-quality optical photography: physically plausible thin-film interference on the transparent soap-film shell, fine restrained rainbow reflections with violet, teal and champagne gold, delicate stars and luminous dust visible through the bubble, real glass depth and natural filmic contrast. Keep same placement and relative scale, brightest upper-left and bottom-right highlight zones and interior central star cluster. True transparent background outside the sphere and its very soft rim bloom; remove the original rectangular starry background entirely. No text, no border, no additional sphere, no pedestal. Generate maximum high detail with 4K clarity. Do not zoom, crop, move or redesign the orb. Preserve circular outline and transparent alpha.",
+      "native_generated_dimensions": [
+        1254,
+        1254
+      ],
+      "delivery_dimensions": [
+        4096,
+        4096
+      ],
+      "upscaled": true
+    },
+    {
+      "stem": "photorealistic_purple_iris_orb",
+      "path": "/Users/bethrooney/.codex/generated_images/01a152b0-db98-75b1-accf-6191d5a4294c/exec-c60fc439-de63-416c-b7d0-e29367ac9ecd.png",
+      "prompt": "Use case: style-transfer. Asset type: animated eye iris texture on square RGBA canvas. The supplied purple eye iris is the EDIT TARGET. Preserve its exact composition and mapping: frontal close-up iris centered at (50%,50%), occupying virtually the full square frame with small eyelid fragments at corners, circular pupil approximately 36% of frame diameter, same violet iris ring and outer thin teal limbal rim. Upgrade from synthetic illustration into ultra realistic macro cinematic eye photography: intricate organic radial iris fibers, moist corneal reflections, natural violet pigmentation, subtle gold flecks, and a luminous realistic distant spiral galaxy visible inside the pupil, restrained filmic lighting. Keep same pupil center and diameter, exact circular silhouette and crop, same eyelid placement and upper reflections, same purple/teal palette. True transparent alpha beyond circular iris/eyelid boundary matching original. No text, no extra objects, no entire face, no altered geometry. Maximum fine detail, 4K clarity.",
+      "native_generated_dimensions": [
+        1254,
+        1254
+      ],
+      "delivery_dimensions": [
+        4096,
+        4096
+      ],
+      "upscaled": true,
+      "derived_matching_icon": "icon-eye.png / icon-eye.webp; same square circular-eye mapping"
+    },
+    {
+      "stem": "crystal_nebula_panorama",
+      "path": "/Users/bethrooney/.codex/generated_images/01a152b0-db98-75b1-accf-6191d5a4294c/exec-23baf933-9d40-4a8f-a93a-db45486950a6.png",
+      "prompt": "Use case: style-transfer. Asset type: 2:1 panoramic animated rotating crystal-ball texture. Supplied image is the EDIT TARGET; preserve exact original 2:1 composition and all objects: TWO identical clear crystal globes side by side centered at x=25% and x=75%, each occupying one half, identical mirrored violet-and-cyan spiral nebula center in each globe, white elongated upper outer reflections, sliver of ornate dark champagne-gold base visible only along bottom edge. Match positions, scale, crop, camera perspective, spiral orientation, and dark navy negative space exactly. Upgrade the rendering into live-action high-budget fantasy cinema: physically realistic polished crystal optics, fine astrophotographic cosmic dust, natural deep violet nebula clouds and restrained cyan luminosity, accurate soft-box specular reflections, true depth, dense fine stars without cartoon star shapes. Rich low-key filmic contrast. No text, no extra objects, no new composition, no blur or plastic cartoon illustration. Generate maximum resolution and crisp 4K detail while strictly retaining the 2:1 aspect ratio and original texture mapping.",
+      "native_generated_dimensions": [
+        1774,
+        887
+      ],
+      "delivery_dimensions": [
+        4096,
+        2048
+      ],
+      "upscaled": true
+    }
+  ],
+  "notes": [
+    "No animation JavaScript, source pivot metadata, HTML asset paths or event behavior was changed by this agent.",
+    "Avatar and its wing/train fragments deliberately retained original texture composition to preserve seams, articulated pivots and identity. Four-times delivery resolution is conventional upscale and is not native newly generated 4K detail.",
+    "Generated orb/iris/panorama retain original subjects, placement and aspect ratio. Generated alpha is genuinely transparent; no flat checkerboard is embedded.",
+    "All 4096 outputs are delivery resolutions; native source generation dimensions are recorded individually. No native 8K claim."
+  ],
+  "assets": [
+    {
+      "filename": "avatar_body.webp",
+      "original_dimensions": [
+        1024,
+        1024
+      ],
+      "delivery_dimensions": [
+        4096,
+        4096
+      ],
+      "original_sha256": "206952c8d065e9a973f004cbca7c2166011d0fefa55f19cab4681b77f18622a1",
+      "delivery_sha256": "21feb6dffc93fd89379bdac8610db4cb818db90a838ffad41fdadda176be6de8",
+      "delivery_bytes": 596442,
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "method": "original artwork uniformly resampled; normalized alpha preserved exactly"
+    },
+    {
+      "filename": "avatar_body.png",
+      "original_dimensions": [
+        1024,
+        1024
+      ],
+      "delivery_dimensions": [
+        4096,
+        4096
+      ],
+      "original_sha256": "edd84b330adbc69e7244c9275022cba55c4c661b697ec294654ff90f3fa3cf02",
+      "delivery_sha256": "92fd0bf2ebe0365837f3d048603e88e1214196707dc48fc301aa824481a4d85b",
+      "delivery_bytes": 3735631,
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "method": "original artwork uniformly resampled; normalized alpha preserved exactly"
+    },
+    {
+      "filename": "avatar_wing_left.png",
+      "original_dimensions": [
+        1024,
+        1024
+      ],
+      "delivery_dimensions": [
+        4096,
+        4096
+      ],
+      "original_sha256": "27bde894b16cbacf43d6296d1b6e9d054e3ab8f012aa3c747191c6b7cb2b2f3c",
+      "delivery_sha256": "8738e0338f58c17e58b169b571b7112af5a916bbbc546da83d2f778f3653920c",
+      "delivery_bytes": 375738,
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "method": "original artwork uniformly resampled; normalized alpha preserved exactly"
+    },
+    {
+      "filename": "avatar_wing_left.webp",
+      "original_dimensions": [
+        1024,
+        1024
+      ],
+      "delivery_dimensions": [
+        4096,
+        4096
+      ],
+      "original_sha256": "38890fcce3aa29ceb07d0cb63e78fc48ad82993c76b006b72fb9257383105bc1",
+      "delivery_sha256": "ca30f872e6af0824ea94bf3b278c73f4160326cfbc96c33444f0c47866b77ece",
+      "delivery_bytes": 85048,
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "method": "original artwork uniformly resampled; normalized alpha preserved exactly"
+    },
+    {
+      "filename": "avatar_wing_right.webp",
+      "original_dimensions": [
+        1024,
+        1024
+      ],
+      "delivery_dimensions": [
+        4096,
+        4096
+      ],
+      "original_sha256": "04516eeb01a74969d5508c0bee0ca682ebf83865856273f28750f398c129854f",
+      "delivery_sha256": "a5ab02d08df970ffafe229d98a072892e4155379e3d1b75a515571da280e5edc",
+      "delivery_bytes": 167442,
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "method": "original artwork uniformly resampled; normalized alpha preserved exactly"
+    },
+    {
+      "filename": "avatar_wing_right.png",
+      "original_dimensions": [
+        1024,
+        1024
+      ],
+      "delivery_dimensions": [
+        4096,
+        4096
+      ],
+      "original_sha256": "80f2b86dd1ded478b29a43ecc108df044f973558661a072671158ec7b2faa5cf",
+      "delivery_sha256": "11ea6e12cdc002acf6fe19161a0a3f03a31196058a26dab5150c2972d0d20e4e",
+      "delivery_bytes": 1102738,
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "method": "original artwork uniformly resampled; normalized alpha preserved exactly"
+    },
+    {
+      "filename": "avatar_train.png",
+      "original_dimensions": [
+        1024,
+        1024
+      ],
+      "delivery_dimensions": [
+        4096,
+        4096
+      ],
+      "original_sha256": "f9c73f3a3c4cc401cd7e323495791fab20c2dc4bb4ab8290e09aef5fd34f9ef2",
+      "delivery_sha256": "9cc0d84b0662dbc8d644929ae437f439853cc9cae859b242d2f31879dd7153e0",
+      "delivery_bytes": 737632,
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "method": "original artwork uniformly resampled; normalized alpha preserved exactly"
+    },
+    {
+      "filename": "avatar_train.webp",
+      "original_dimensions": [
+        1024,
+        1024
+      ],
+      "delivery_dimensions": [
+        4096,
+        4096
+      ],
+      "original_sha256": "891d7f77db88c004852d05e8103f65d2fe13c5ae6bb187acfe6bb80787027e00",
+      "delivery_sha256": "e5cd79e5a6930853a98ad9b4a7dd4c85059e71b8f1eca85e68788e17fe33073e",
+      "delivery_bytes": 135494,
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "method": "original artwork uniformly resampled; normalized alpha preserved exactly"
+    },
+    {
+      "filename": "photorealistic_avatar_transparent.png",
+      "original_dimensions": [
+        1024,
+        1024
+      ],
+      "delivery_dimensions": [
+        4096,
+        4096
+      ],
+      "original_sha256": "5856728813844e862a39eb744b3953cc7eb6cbcae943ed10aae4c0150c154f45",
+      "delivery_sha256": "8422bfd55e7be84c480128f46e7e12ca340cb3efb1aa918d8e81dfb207dc3063",
+      "delivery_bytes": 10244789,
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "method": "original artwork uniformly resampled; normalized alpha preserved exactly"
+    },
+    {
+      "filename": "photorealistic_glinda_bubble_orb.png",
+      "original_dimensions": [
+        1024,
+        1024
+      ],
+      "delivery_dimensions": [
+        4096,
+        4096
+      ],
+      "original_sha256": "8281f58757528acfec3feca2e6904732a4df42822797139b7e8d4b2dd7caf12f",
+      "delivery_sha256": "e32d0dfc224bc0d50c3b36d4b4552954ea21f5c1c8ad633989ce11d916141dc8",
+      "delivery_bytes": 15289651,
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "method": "cinematic imagegen edit followed by uniform resampling"
+    },
+    {
+      "filename": "photorealistic_glinda_bubble_orb.webp",
+      "original_dimensions": [
+        1024,
+        1024
+      ],
+      "delivery_dimensions": [
+        4096,
+        4096
+      ],
+      "original_sha256": "502496325df82b1c73b53336d1e872c95fc59844d0bafaa28a477428f2e73a38",
+      "delivery_sha256": "14d66097e219287ee58204231ef2a13cc8cc5649cfa14a9d42bbb5121629e315",
+      "delivery_bytes": 2417714,
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "method": "cinematic imagegen edit followed by uniform resampling"
+    },
+    {
+      "filename": "photorealistic_purple_iris_orb.webp",
+      "original_dimensions": [
+        396,
+        396
+      ],
+      "delivery_dimensions": [
+        4096,
+        4096
+      ],
+      "original_sha256": "4adb03a1782d52f4b82f2afbbd1fbfd4067b5c338cb92ba07b857e3afe7e4a36",
+      "delivery_sha256": "ac93ba946b1976a744e1b1601542f8d62f3e42c7e7b73ca07b047b4c98900619",
+      "delivery_bytes": 2462368,
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "method": "cinematic imagegen edit followed by uniform resampling"
+    },
+    {
+      "filename": "photorealistic_purple_iris_orb.png",
+      "original_dimensions": [
+        396,
+        396
+      ],
+      "delivery_dimensions": [
+        4096,
+        4096
+      ],
+      "original_sha256": "9885f5b8cd53d271f03cb3b43268e8d900b86b001ebecf6744e8aaeba2d98b5f",
+      "delivery_sha256": "0fcb1dfbf7f0e0b3480776fe48af6112d12d4014a136f3ec3031d466d720cdfa",
+      "delivery_bytes": 17625270,
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "method": "cinematic imagegen edit followed by uniform resampling"
+    },
+    {
+      "filename": "crystal_nebula_panorama.webp",
+      "original_dimensions": [
+        1024,
+        512
+      ],
+      "delivery_dimensions": [
+        4096,
+        2048
+      ],
+      "original_sha256": "0a542b61f22b9a90e4fa6765f43480a2817917a5b0d9d7119f6ff2c1e6dafd27",
+      "delivery_sha256": "a0ded2f89df62bd9e46fd58ea9421fe17817fb4e28f9c091737a494545d6cf54",
+      "delivery_bytes": 1384958,
+      "mode": "RGB",
+      "alpha_extrema": null,
+      "method": "cinematic imagegen edit followed by uniform resampling"
+    },
+    {
+      "filename": "crystal_nebula_panorama.jpg",
+      "original_dimensions": [
+        1240,
+        620
+      ],
+      "delivery_dimensions": [
+        4096,
+        2048
+      ],
+      "original_sha256": "a644d9a431033fb9121af8cd4291fefc6d7868cde01f12d9deaca7b041dc2849",
+      "delivery_sha256": "dc4ee18d1d97ded300f7784cb29b44b8080623ccf54099957cb99d43ea0c5f70",
+      "delivery_bytes": 2642991,
+      "mode": "RGB",
+      "alpha_extrema": null,
+      "method": "cinematic imagegen edit followed by uniform resampling"
+    },
+    {
+      "filename": "crystal_glass_specular.webp",
+      "original_dimensions": [
+        1024,
+        1024
+      ],
+      "delivery_dimensions": [
+        4096,
+        4096
+      ],
+      "original_sha256": "5994424ebef47b264c3512710760a442e0e82349b705bbef0ce2d244ed07eb89",
+      "delivery_sha256": "3dd927824b8292996b0425f800b1682e6e56b7fc69f364470443cfe00efcb164",
+      "delivery_bytes": 1191398,
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "method": "original artwork uniformly resampled; normalized alpha preserved exactly"
+    },
+    {
+      "filename": "crystal_glass_specular.png",
+      "original_dimensions": [
+        1024,
+        1024
+      ],
+      "delivery_dimensions": [
+        4096,
+        4096
+      ],
+      "original_sha256": "9e13a1f7c291e946cac4f18ad0589a0ba942bba0be31b6c3fa845d8d1fcdc1f5",
+      "delivery_sha256": "8e0757abcb0cda0e3fd49b8fc322fedd9e9375d649fb40f372cb8721d5544c4f",
+      "delivery_bytes": 2811934,
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "method": "original artwork uniformly resampled; normalized alpha preserved exactly"
+    },
+    {
+      "filename": "crystal_ball_transparent.png",
+      "original_dimensions": [
+        1024,
+        1024
+      ],
+      "delivery_dimensions": [
+        4096,
+        4096
+      ],
+      "original_sha256": "1800deb2a82035112d173d431ea0b969a918c4b9bff0480f4f39b0d3a9c9607c",
+      "delivery_sha256": "43aa581680ad31ded72c0095dcf16b332904e52bd1176484278779971b3fbef5",
+      "delivery_bytes": 14693070,
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "method": "original artwork uniformly resampled; normalized alpha preserved exactly"
+    },
+    {
+      "filename": "icon-eye.png",
+      "original_dimensions": [
+        256,
+        256
+      ],
+      "delivery_dimensions": [
+        4096,
+        4096
+      ],
+      "original_sha256": "ea5b051a6076e8747e2b2146e8019577bb745417b54943708f6cf830f614b594",
+      "delivery_sha256": "0fcb1dfbf7f0e0b3480776fe48af6112d12d4014a136f3ec3031d466d720cdfa",
+      "delivery_bytes": 17625270,
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "method": "cinematic imagegen edit followed by uniform resampling"
+    },
+    {
+      "filename": "icon-eye.webp",
+      "original_dimensions": [
+        256,
+        256
+      ],
+      "delivery_dimensions": [
+        4096,
+        4096
+      ],
+      "original_sha256": "01939744a3f486136fb1a971efc8c0b71eb48e8adf9c58bc07bb3babdb74bf5b",
+      "delivery_sha256": "ac93ba946b1976a744e1b1601542f8d62f3e42c7e7b73ca07b047b4c98900619",
+      "delivery_bytes": 2462368,
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "method": "cinematic imagegen edit followed by uniform resampling"
+    },
+    {
+      "filename": "icon-orb.png",
+      "original_dimensions": [
+        256,
+        256
+      ],
+      "delivery_dimensions": [
+        4096,
+        4096
+      ],
+      "original_sha256": "074e9a5ff6480bc1b97db43626d3171bd23818f94cd2ce44c1234420e86bb2f9",
+      "delivery_sha256": "efb2ba9a5cb395eb458ada9ecc94e2ba82ed92632e77c42089b895bdd4be8c1f",
+      "delivery_bytes": 9663941,
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "method": "original artwork uniformly resampled; normalized alpha preserved exactly"
+    },
+    {
+      "filename": "icon-orb.webp",
+      "original_dimensions": [
+        256,
+        256
+      ],
+      "delivery_dimensions": [
+        4096,
+        4096
+      ],
+      "original_sha256": "908987ed09440d9ea76b9eb5d2ee59790fc1fd949811d787b94e735dfc6049cf",
+      "delivery_sha256": "838f415ebc6c324022d35d1369bf65f39daf188ceecc9aa93a2e803dffcf446e",
+      "delivery_bytes": 932468,
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "method": "original artwork uniformly resampled; normalized alpha preserved exactly"
+    }
+  ],
+  "rig_checks": [
+    {
+      "filename": "avatar_body.png",
+      "exact_normalized_alpha_match": true,
+      "original_alpha_bbox": [
+        312,
+        35,
+        858,
+        820
+      ],
+      "delivered_alpha_bbox": [
+        1248,
+        140,
+        3432,
+        3280
+      ]
+    },
+    {
+      "filename": "avatar_wing_left.png",
+      "exact_normalized_alpha_match": true,
+      "original_alpha_bbox": [
+        312,
+        125,
+        407,
+        391
+      ],
+      "delivered_alpha_bbox": [
+        1248,
+        500,
+        1628,
+        1564
+      ]
+    },
+    {
+      "filename": "avatar_wing_right.png",
+      "exact_normalized_alpha_match": true,
+      "original_alpha_bbox": [
+        632,
+        94,
+        858,
+        485
+      ],
+      "delivered_alpha_bbox": [
+        2528,
+        376,
+        3432,
+        1940
+      ]
+    },
+    {
+      "filename": "avatar_train.png",
+      "exact_normalized_alpha_match": true,
+      "original_alpha_bbox": [
+        562,
+        602,
+        834,
+        861
+      ],
+      "delivered_alpha_bbox": [
+        2248,
+        2408,
+        3336,
+        3444
+      ]
+    }
+  ],
+  "normalized_source_canvas": [
+    1024,
+    1024
+  ],
+  "normalized_pivots": {
+    "wingLeft": [
+      404,
+      300
+    ],
+    "wingRight": [
+      652,
+      300
+    ],
+    "train": [
+      596,
+      620
+    ]
+  },
+  "delivery_resolution_statement": "4096\u00d74096 square masters and 4096\u00d72048 panorama. Generated edits are natively 1254\u00d71254 or 1774\u00d7887, then conventionally resampled. Preserved original rig sprites are upscaled from 1024\u00d71024. Not native 4K or 8K synthesis.",
+  "butterfly_sprite": {
+    "prompt": "Use case: photorealistic-natural. Asset type: transparent animated butterfly sprite for a cinematic website. Create ONE real morpho butterfly photographed exactly from overhead, fully spread symmetrical wings, vertical body at x=50% facing the TOP of a square canvas. Wing tips approximately x=5% and95%, upper wing tips y=5%, lower hindwings y=95%, entire butterfly visible. Exact bilateral wing geometry with body straight vertical. Rich restrained cyan/teal/amethyst structural iridescence, naturally dark charcoal brown wing margins, intricate wing scales, delicate dark venation and realistic fine hairs on slim body, two slender antennae pointing upward. Soft directional photographic lighting, tactile natural microscopic detail, high-budget cinematic realism. True clean transparent background including between antennae and legs. No surface, no cast shadow, no environment, no text, no glitter, no luminous solid fill, no neon, no cartoon or vector styling. Preserve credible biological proportions. Four spread wings meet at the centered body so software can articulate left and right halves. Maximum crisp detail.",
+    "source": "/Users/bethrooney/.codex/generated_images/01a152b0-db98-75b1-accf-6191d5a4294c/exec-155c3b8a-fe2b-4699-af7b-045c5a5f9741.png",
+    "method": "Built-in image_gen, followed by uniform resampling with 5% transparent outer padding",
+    "inspection": "Realistic morpho scales and veins; body vertical centered, facing top. True transparent surroundings. Four wings fully visible and nearly bilateral. Wing hinge near normalized (0.50, 0.47).",
+    "native_generated_dimensions": [
+      1254,
+      1254
+    ],
+    "files": [
+      {
+        "filename": "butterfly-cinematic.png",
+        "dimensions": [
+          2048,
+          2048
+        ],
+        "sha256": "909b4e19d48018c557caa89c68e20e0b14a48f4cd897e35fa66a59afdb03349c"
+      },
+      {
+        "filename": "butterfly-cinematic.webp",
+        "dimensions": [
+          2048,
+          2048
+        ],
+        "sha256": "f0754907df94dcf53828203b21c5bc2ab8fb76662d8075e5983d371f4c3a2326"
+      },
+      {
+        "filename": "butterfly-cinematic-4k.png",
+        "dimensions": [
+          4096,
+          4096
+        ],
+        "sha256": "6b0a47d1d28f471efabae6c28e67a8f6dc20ea0c5af079018559dff9dc25a2d7"
+      }
+    ]
+  },
+  "version2_correction": {
+    "change": "Shared decorative hero/footer renderer uses butterfly-cinematic.webp; dedicated Beth assistant unchanged.",
+    "new_generation": false,
+    "flight_logic": "unchanged"
+  }
+}

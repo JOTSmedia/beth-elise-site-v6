@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg">
+  <!-- Outline the wordmark/subtitle band; retain the original crest and flourishes. -->
+  <filter id="lettering" x="-25%" y="-30%" width="150%" height="160%" primitiveUnits="objectBoundingBox" color-interpolation-filters="sRGB">
+    <feMorphology in="SourceAlpha" operator="dilate" radius=".0016 .0024" result="expanded"/>
+    <feComposite in="expanded" in2="SourceAlpha" operator="out" result="edge"/>
+    <feFlood flood-color="#070a0c" result="black"/>
+    <feComposite in="black" in2="edge" operator="in" result="stroke"/>
+    <feFlood flood-color="white" x="0" y=".36" width="1" height=".49" result="letterBand"/>
+    <feComposite in="stroke" in2="letterBand" operator="in" result="letterStroke"/>
+    <feMerge><feMergeNode in="letterStroke"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+</svg>

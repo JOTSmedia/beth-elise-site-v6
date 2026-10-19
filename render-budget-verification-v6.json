@@ -1,0 +1,93 @@
+[
+  {
+    "viewport": [
+      402,
+      874
+    ],
+    "devicePixelRatio": 3,
+    "backingPixelRatio": 1.5,
+    "heroCanvasPixels": 790533,
+    "heroCanvasMiB": 3.015644073486328,
+    "crystalCanvasPixels": 176400,
+    "sameSizeResizeWrites": 2,
+    "productVariantAndSubpathPreserved": true
+  },
+  {
+    "viewport": [
+      393,
+      852
+    ],
+    "devicePixelRatio": 3,
+    "backingPixelRatio": 1.5,
+    "heroCanvasPixels": 754020,
+    "heroCanvasMiB": 2.8763580322265625,
+    "crystalCanvasPixels": 176400,
+    "sameSizeResizeWrites": 2,
+    "productVariantAndSubpathPreserved": true
+  },
+  {
+    "viewport": [
+      430,
+      932
+    ],
+    "devicePixelRatio": 3,
+    "backingPixelRatio": 1.5,
+    "heroCanvasPixels": 901710,
+    "heroCanvasMiB": 3.4397506713867188,
+    "crystalCanvasPixels": 176400,
+    "sameSizeResizeWrites": 2,
+    "productVariantAndSubpathPreserved": true
+  },
+  {
+    "viewport": [
+      874,
+      402
+    ],
+    "devicePixelRatio": 3,
+    "backingPixelRatio": 1.5,
+    "heroCanvasPixels": 790533,
+    "heroCanvasMiB": 3.015644073486328,
+    "crystalCanvasPixels": 176400,
+    "sameSizeResizeWrites": 2,
+    "productVariantAndSubpathPreserved": true
+  },
+  {
+    "viewport": [
+      1024,
+      1366
+    ],
+    "devicePixelRatio": 2,
+    "backingPixelRatio": 1.0355481604828216,
+    "heroCanvasPixels": 1499900,
+    "heroCanvasMiB": 5.7216644287109375,
+    "crystalCanvasPixels": 176400,
+    "sameSizeResizeWrites": 2,
+    "productVariantAndSubpathPreserved": true
+  },
+  {
+    "viewport": [
+      1440,
+      900
+    ],
+    "devicePixelRatio": 2,
+    "backingPixelRatio": 2,
+    "heroCanvasPixels": 5184000,
+    "heroCanvasMiB": 19.775390625,
+    "crystalCanvasPixels": 313600,
+    "sameSizeResizeWrites": 2,
+    "productVariantAndSubpathPreserved": true
+  },
+  {
+    "viewport": [
+      3840,
+      2160
+    ],
+    "devicePixelRatio": 3,
+    "backingPixelRatio": 0.9820927516479826,
+    "heroCanvasPixels": 7998291,
+    "heroCanvasMiB": 30.511058807373047,
+    "crystalCanvasPixels": 313600,
+    "sameSizeResizeWrites": 2,
+    "productVariantAndSubpathPreserved": true
+  }
+]

@@ -1,0 +1,11 @@
+{
+  "cases": 5760,
+  "directions": 360,
+  "species": 4,
+  "wingPhases": 4,
+  "maximumBankDegrees": 23.929975626565408,
+  "minimumUprightCosine": 0.9140418708306406,
+  "upsideDownCases": 0,
+  "positiveWingScale": true,
+  "flightPathsUnchanged": true
+}

@@ -1,0 +1,28 @@
+{
+  "version": "beth-elise-site-v6",
+  "status": "source and budget checks passed; physical iPhone retest pending",
+  "html_interactive_structure_preserved": [
+    "index.html",
+    "404.html",
+    "pages/merch.html",
+    "pages/testimonials.html",
+    "pages/about.html",
+    "pages/contact.html",
+    "pages/terms.html",
+    "pages/notes-by-beth.html",
+    "pages/services.html",
+    "pages/privacy.html"
+  ],
+  "original_image_files_byte_identical": 195,
+  "fonts_licenses_and_original_styles_byte_identical": true,
+  "forest_and_butterfly_paint_paths_unchanged": true,
+  "intro_and_portal_timing_and_contour_unchanged": true,
+  "crystal_render_function_unchanged": true,
+  "responsive_candidates_checked": 225,
+  "raster_images_verified": 432,
+  "missing_local_references": [],
+  "memory_budget_test": "render-budget-verification-v6.json",
+  "published_baseline": "published-baseline-check-v6.json",
+  "browser_limit": "Automatic browser security review blocked localhost observation; no v6 browser screenshot or physical iPhone verification is claimed.",
+  "deployment": "local only; published v5 unchanged"
+}

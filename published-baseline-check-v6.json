@@ -1,0 +1,17 @@
+[
+  {
+    "path": "index.html",
+    "published_matches_local_v5": true,
+    "published_sha256": "788f592514594f6bc24746d3f4be779e8c135b8e4167df3136da7ec4f2a08a70"
+  },
+  {
+    "path": "js/main.js",
+    "published_matches_local_v5": true,
+    "published_sha256": "eeeb1fd954fbb9895bef7d529d37d0decc4540cca059c934c54a5f7b13c0153a"
+  },
+  {
+    "path": "css/cinematic.css",
+    "published_matches_local_v5": true,
+    "published_sha256": "ab4d6c6884fea6298913386a391822a50fe9c1113d4a95ccd6c0ddd1eee7e64f"
+  }
+]

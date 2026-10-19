@@ -1,0 +1,31 @@
+{
+  "method": "Actual original ornament artwork retained; exact script from the user screenshot recovered from the approved earlier lettering source, separately masked and recolored. Thin dark edge around the name. All original plants, wing roots, stars and lower garland restored.",
+  "original_native": [
+    1264,
+    848
+  ],
+  "original_web": [
+    640,
+    429
+  ],
+  "typography_generated_native": [
+    1533,
+    1026
+  ],
+  "typography_prior_export": [
+    4096,
+    2746
+  ],
+  "typography_source": "Built-in ImageGen exec-876327ad-7ab1-4d76-9267-045ade932de0.png; existing approved asset reused, no new generation",
+  "export": [
+    4096,
+    2746
+  ],
+  "source": "original GitHub source commit 1d1760e4f0b67fd9e5e040b386be15d021316ac0",
+  "colors": {
+    "name": "#1f004c",
+    "subtitle": "#2c9da1",
+    "lightVariant": "#81d8d0"
+  },
+  "detail": "Raster illustration and lettering enlargement is not native 4K detail."
+}

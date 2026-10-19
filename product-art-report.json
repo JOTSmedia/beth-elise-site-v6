@@ -1,0 +1,697 @@
+{
+  "assets": [
+    {
+      "stem": "merch-crystals",
+      "original_dimensions": [
+        1024,
+        1024
+      ],
+      "original_jpg_sha256": "7dbf16f657739eb3778ee4374c80840631d6a4133fdda154405ed0bb3df2fcbb",
+      "original_webp_sha256": "19494c0c35cb204b3cd8090a755aae692fd5593226fd48d0fda8298614ad1c82",
+      "method": "built-in-imagegen-edit-and-lanczos-export",
+      "generation_native_dimensions": [
+        1254,
+        1254
+      ],
+      "delivery_dimensions": [
+        4096,
+        4096
+      ],
+      "prompt": "Use case: lighting-weather\nAsset type: luxury wellness ecommerce product flat-lay image, square.\nInput image: edit target, preserve its exact object arrangement.\nPrimary request: elevate this existing product photograph into a cinematic premium 4K product photograph. Preserve every object's identity, shape, position, scale, count, crop, perspective, colors, and printed artwork. Change only photographic rendering: refined directional window light, gentle warm highlights, rich restrained shadows, natural filmic tonal range, exceptionally detailed linen weave, amethyst crystalline facets, real translucency of rose quartz, dry sage fibers, eucalyptus texture, paper grain and authentic glass reflections. Real macro product photography, tactile materials, tasteful luxury editorial realism. Keep overall white linen and soft lavender palette and all negative space. This is a faithful detail restoration and lighting polish, not a redesign.\nText and artwork: retain exact existing printing, book says MYSTICAL FAIRY ORACLE; keep the two printed fairy card illustrations and their text as printed product artwork. Preserve the same lavender oil label.\nConstraints: absolutely no new objects, no removed objects, no rearrangement, no changed product, no changed artwork or typography, no invented text, no CGI plastic look, no fantasy additions. Output square at the highest available native resolution.",
+      "source_file": "/Users/bethrooney/.codex/generated_images/01a152b0-bb38-7f00-8e3c-2c4d9aa232ad/exec-1ea2fb47-6ba6-42be-b3f9-436a26eb32d9.png",
+      "source_sha256": "d1eea98c257e61e831bf5a3b5bcb8f15e004babf45e344dc5cd7da4b71f1f604",
+      "outputs": {
+        "jpg": {
+          "path": "images/merch-crystals.jpg",
+          "sha256": "753996b10efb9e6161265d182d1156a8c7578cec21c9877f9a13827c55120d20",
+          "bytes": 3692515
+        },
+        "webp": {
+          "path": "images/merch-crystals.webp",
+          "sha256": "230373e8ea88e33c5fd68a9b2a1c6064d1b27abd57e689477a7491be4a6ad0cc",
+          "bytes": 1719194
+        }
+      }
+    },
+    {
+      "stem": "merch-eye-believe-black",
+      "original_dimensions": [
+        1024,
+        1024
+      ],
+      "original_jpg_sha256": "66328644f54ecfdd0faa29cfc6fc8a3e53119fa3bd35d02e8dfdbf2be4faeca0",
+      "original_webp_sha256": "09cd9b6a93a1e06fc70cf5bcadb0171062ccc9bab155339eed8a7a3a5d49e0ff",
+      "method": "built-in-imagegen-edit-and-lanczos-export",
+      "generation_native_dimensions": [
+        1254,
+        1254
+      ],
+      "delivery_dimensions": [
+        4096,
+        4096
+      ],
+      "prompt": "Use case: lighting-weather\nAsset type: square luxury fashion ecommerce product photograph.\nInput image: edit target.\nPrimary request: refine this black crew-neck tee flat-lay to cinematic premium photoreal photography, 4K detail intent. Maintain exact overhead camera, garment shape and position, black color, beige linen ground and existing gold stars-and-lines purple eye print with lavender script Believe. Preserve the exact eye, every gold geometric detail, stars, lettering and print scale. Change only photographic fidelity and illumination: real fine cotton texture and stitching, natural matte ink, restrained directional window light, deep nuanced black fabric, warmly lit ivory linen texture, subtle filmic highlights, detailed believable shadows. The eye remains a flat printed graphic, and must not become an actual eye.\nText verbatim: Believe.\nConstraints: no composition changes, no new props, no changes to product/artwork/lettering, no added decoration, no fantasy or cartoon effects, no plastic CGI. Highest available native resolution, square crop.",
+      "source_file": "/Users/bethrooney/.codex/generated_images/01a152b0-bb38-7f00-8e3c-2c4d9aa232ad/exec-c2b2f49e-bab9-4b75-8608-fea27a50ede9.png",
+      "source_sha256": "ceab675d66a84f2ed2f314eb80b996f0a377dc1ccb7aa8a3794f4145eeec7d4e",
+      "outputs": {
+        "jpg": {
+          "path": "images/merch-eye-believe-black.jpg",
+          "sha256": "264c044bef377489421580497e737331ff391ac8c466d255584f05a02f79a2cd",
+          "bytes": 3132745
+        },
+        "webp": {
+          "path": "images/merch-eye-believe-black.webp",
+          "sha256": "c219ba5eb721b7457c5d12bea3aa58ad59b726eedef331b2a9a79c0de66c679c",
+          "bytes": 1497678
+        }
+      }
+    },
+    {
+      "stem": "merch-eye-believe-hat-black",
+      "original_dimensions": [
+        1024,
+        1024
+      ],
+      "original_jpg_sha256": "675d07a5e7e62310a83c1e241f7433fbcbecd762752a6138bb9fcb89d29ef847",
+      "original_webp_sha256": "84b7dc9fbdfb47c627d68fd46746d5fa36f0ef78540017db31f61d97abdc0ee8",
+      "method": "source-preserving-lanczos-upscale",
+      "generation_native_dimensions": null,
+      "delivery_dimensions": [
+        4096,
+        4096
+      ],
+      "prompt": null,
+      "source_file": "/Users/bethrooney/Desktop/BETH-ELISE-SITE-GPT/product-originals/merch-eye-believe-hat-black.jpg",
+      "source_sha256": "675d07a5e7e62310a83c1e241f7433fbcbecd762752a6138bb9fcb89d29ef847",
+      "reason": "Preserve exact detailed branded product artwork and existing color-variant mapping; no generative re-interpretation of the source.",
+      "outputs": {
+        "jpg": {
+          "path": "images/merch-eye-believe-hat-black.jpg",
+          "sha256": "da5a6c6445e376161754a9d0e21ea23c53a48cdf5a772a600b4420e2507936ca",
+          "bytes": 1530142
+        },
+        "webp": {
+          "path": "images/merch-eye-believe-hat-black.webp",
+          "sha256": "fbb2ef1faebe11f969dad5a84a2014adc977879aece8aefaee8883f248805d6d",
+          "bytes": 593568
+        }
+      }
+    },
+    {
+      "stem": "merch-eye-believe-hat-lavender",
+      "original_dimensions": [
+        1024,
+        1024
+      ],
+      "original_jpg_sha256": "113f26e5a15c3ca7086ea855727ec3fe17993fab5f689d66a3d15e809867e8fb",
+      "original_webp_sha256": "451c8857d8b1fd85152e19aab80590d95b80c75472cb1b0cb1236967d09fbfe6",
+      "method": "source-preserving-lanczos-upscale",
+      "generation_native_dimensions": null,
+      "delivery_dimensions": [
+        4096,
+        4096
+      ],
+      "prompt": null,
+      "source_file": "/Users/bethrooney/Desktop/BETH-ELISE-SITE-GPT/product-originals/merch-eye-believe-hat-lavender.jpg",
+      "source_sha256": "113f26e5a15c3ca7086ea855727ec3fe17993fab5f689d66a3d15e809867e8fb",
+      "reason": "Preserve exact detailed branded product artwork and existing color-variant mapping; no generative re-interpretation of the source.",
+      "outputs": {
+        "jpg": {
+          "path": "images/merch-eye-believe-hat-lavender.jpg",
+          "sha256": "901ed2ddd4ef365aa205302379c82a7a5b6c1c38757162f4a9b4379f8a1efc03",
+          "bytes": 1504083
+        },
+        "webp": {
+          "path": "images/merch-eye-believe-hat-lavender.webp",
+          "sha256": "22dbc802ed4c34962100d7985339ae1a271ca52c9f71b549f4ade19ee20b8163",
+          "bytes": 610676
+        }
+      }
+    },
+    {
+      "stem": "merch-eye-believe-hoodie-black",
+      "original_dimensions": [
+        1024,
+        1024
+      ],
+      "original_jpg_sha256": "3a862d64ae802a0b9b94e57b306b059223a458b7873cee665351751fb9677def",
+      "original_webp_sha256": "5a8b412bbf05a5e6be342c21d5825dba5e3b8c7ee5447024d29ee2cd87109314",
+      "method": "source-preserving-lanczos-upscale",
+      "generation_native_dimensions": null,
+      "delivery_dimensions": [
+        4096,
+        4096
+      ],
+      "prompt": null,
+      "source_file": "/Users/bethrooney/Desktop/BETH-ELISE-SITE-GPT/product-originals/merch-eye-believe-hoodie-black.jpg",
+      "source_sha256": "3a862d64ae802a0b9b94e57b306b059223a458b7873cee665351751fb9677def",
+      "reason": "Preserve exact detailed branded product artwork and existing color-variant mapping; no generative re-interpretation of the source.",
+      "outputs": {
+        "jpg": {
+          "path": "images/merch-eye-believe-hoodie-black.jpg",
+          "sha256": "50a247929acfa1dca0ee56ea2e5181700a52681e1621529141c2d6be9f7e00b2",
+          "bytes": 1401423
+        },
+        "webp": {
+          "path": "images/merch-eye-believe-hoodie-black.webp",
+          "sha256": "929866f3aaf2cbe2bb972d9916635fa720d7aefee534fbd7a811b945394bb53c",
+          "bytes": 532674
+        }
+      }
+    },
+    {
+      "stem": "merch-eye-believe-hoodie-lavender",
+      "original_dimensions": [
+        1024,
+        1024
+      ],
+      "original_jpg_sha256": "d3beae61f81f719156b2456d880b805abb5aa9891b0b07880d6d8a3186c30337",
+      "original_webp_sha256": "8d36717cd70def32525a5647093bb4b06208037b625c906861cad31f7b59d4fe",
+      "method": "source-preserving-lanczos-upscale",
+      "generation_native_dimensions": null,
+      "delivery_dimensions": [
+        4096,
+        4096
+      ],
+      "prompt": null,
+      "source_file": "/Users/bethrooney/Desktop/BETH-ELISE-SITE-GPT/product-originals/merch-eye-believe-hoodie-lavender.jpg",
+      "source_sha256": "d3beae61f81f719156b2456d880b805abb5aa9891b0b07880d6d8a3186c30337",
+      "reason": "Preserve exact detailed branded product artwork and existing color-variant mapping; no generative re-interpretation of the source.",
+      "outputs": {
+        "jpg": {
+          "path": "images/merch-eye-believe-hoodie-lavender.jpg",
+          "sha256": "6ea25342f3764387b355bb5f4262c64c7b9735aa47440968ccf139872c5a31d2",
+          "bytes": 1360538
+        },
+        "webp": {
+          "path": "images/merch-eye-believe-hoodie-lavender.webp",
+          "sha256": "dcbde29cecb3338f702df86c13aa3d1334c3efb3617431d9781741f2d5938183",
+          "bytes": 533252
+        }
+      }
+    },
+    {
+      "stem": "merch-eye-believe-lavender",
+      "original_dimensions": [
+        1024,
+        1024
+      ],
+      "original_jpg_sha256": "4e71efb897ade1c8c933e07273ec029f4cc7f2e19ca28ab559965d47493c5b90",
+      "original_webp_sha256": "6ebcb4ca12c61364b49ea61ddd2422c7a02f1e70e3b987ab717f9f48ada8a66e",
+      "method": "built-in-imagegen-edit-and-lanczos-export",
+      "generation_native_dimensions": [
+        1254,
+        1254
+      ],
+      "delivery_dimensions": [
+        4096,
+        4096
+      ],
+      "prompt": "Use case: lighting-weather\nAsset type: square luxury apparel ecommerce product photograph.\nInput image: edit target.\nPrimary request: turn this lavender tee flat-lay into premium cinematic photoreal product photography at the highest native resolution. Keep the exact overhead composition, exact same shirt silhouette, crew neck, sleeves, label, garment lavender color, beige linen background and perfectly intact centered purple-and-gold eye print with script word Believe. The eye illustration is printed artwork: preserve it completely, including the eye, pupil, gold geometry and stars, their placement and scale. Change only photographic fidelity and lighting: crisp natural cotton fibers, realistic fine seams and stitching, gentle fabric folds, fine linen texture, directional soft window light with warm cream highlights and subtle violet shadows. Camera realism, nuanced filmic contrast, authentic matte screenprint ink bonded to cloth. A restrained luxury fashion catalog still life.\nConstraints: preserve all exact artwork, all text, shape and layout. No redesigned eye, no changes to script Believe, no added elements, no new labels, no props, no changed color, no fantasy glow or CGI look. Square image, highest available resolution, 4K detail intent.",
+      "source_file": "/Users/bethrooney/.codex/generated_images/01a152b0-bb38-7f00-8e3c-2c4d9aa232ad/exec-2c2126ae-6360-4347-84b2-653fc4771264.png",
+      "source_sha256": "a6c573f27ce3dc18c08787d6c522dc166cb9a09e33d4bb6dcfdd08e6b2d3f52f",
+      "outputs": {
+        "jpg": {
+          "path": "images/merch-eye-believe-lavender.jpg",
+          "sha256": "4461d9b1f5b18da05d0d6e8e85d3680e090bb0eb1632ab4f7d7080fb900bf8a7",
+          "bytes": 3583519
+        },
+        "webp": {
+          "path": "images/merch-eye-believe-lavender.webp",
+          "sha256": "ac43b15eeb9f7d0a5782a2bf72cef62788b49742df33ae3a01d76e91f71a92a0",
+          "bytes": 1796400
+        }
+      }
+    },
+    {
+      "stem": "merch-eye-believe-tanktop-black",
+      "original_dimensions": [
+        1024,
+        1024
+      ],
+      "original_jpg_sha256": "a9d97b85d23c47e085073336ac79480e7f8f96b5cfedc432fd5b85756a661f1d",
+      "original_webp_sha256": "6e73ce3cf9407c2c92dc30d81b6c42dd13424acdc7125c5521d8452fdb07e1d3",
+      "method": "source-preserving-lanczos-upscale",
+      "generation_native_dimensions": null,
+      "delivery_dimensions": [
+        4096,
+        4096
+      ],
+      "prompt": null,
+      "source_file": "/Users/bethrooney/Desktop/BETH-ELISE-SITE-GPT/product-originals/merch-eye-believe-tanktop-black.jpg",
+      "source_sha256": "a9d97b85d23c47e085073336ac79480e7f8f96b5cfedc432fd5b85756a661f1d",
+      "reason": "Preserve exact detailed branded product artwork and existing color-variant mapping; no generative re-interpretation of the source.",
+      "outputs": {
+        "jpg": {
+          "path": "images/merch-eye-believe-tanktop-black.jpg",
+          "sha256": "8c634e4559a7fb6eb8057c0a7e8a7a929e34f6234ddc96bb117b6e95f552dd1f",
+          "bytes": 858095
+        },
+        "webp": {
+          "path": "images/merch-eye-believe-tanktop-black.webp",
+          "sha256": "987490a592eb2cabcfdbb3dd0569f7c24c4beb22a3241f0dd6203d3044924e62",
+          "bytes": 273012
+        }
+      }
+    },
+    {
+      "stem": "merch-eye-believe-tanktop-white",
+      "original_dimensions": [
+        1024,
+        1024
+      ],
+      "original_jpg_sha256": "6fee7b61f35dfddc0dfb6db20a5c55cebb8d140d0c55abfb7a91c1969ae5e92e",
+      "original_webp_sha256": "17691171817c834161256de78bfb1fcd8cd1ca976f29b743f16d81653ad0e3f5",
+      "method": "source-preserving-lanczos-upscale",
+      "generation_native_dimensions": null,
+      "delivery_dimensions": [
+        4096,
+        4096
+      ],
+      "prompt": null,
+      "source_file": "/Users/bethrooney/Desktop/BETH-ELISE-SITE-GPT/product-originals/merch-eye-believe-tanktop-white.jpg",
+      "source_sha256": "6fee7b61f35dfddc0dfb6db20a5c55cebb8d140d0c55abfb7a91c1969ae5e92e",
+      "reason": "Preserve exact detailed branded product artwork and existing color-variant mapping; no generative re-interpretation of the source.",
+      "outputs": {
+        "jpg": {
+          "path": "images/merch-eye-believe-tanktop-white.jpg",
+          "sha256": "0203941245c6ec37f40c036f94ac328d4f3f0c11911b65a96ef6b885578a97fe",
+          "bytes": 1358252
+        },
+        "webp": {
+          "path": "images/merch-eye-believe-tanktop-white.webp",
+          "sha256": "1579e6212d9228b30080c03194ccedd6d5bfc18da7357f0dd673266d1e993485",
+          "bytes": 569596
+        }
+      }
+    },
+    {
+      "stem": "merch-eye-believe-tanktop",
+      "original_dimensions": [
+        1024,
+        1024
+      ],
+      "original_jpg_sha256": "5203492fd719f3f007829a02a5b471c95f9fe9958b2f472cd8bfd4d2c7595bc4",
+      "original_webp_sha256": "473e153ffddc94fa7e871392332ef47e46cb09d1a9486eac858d73b2e2787274",
+      "method": "built-in-imagegen-edit-and-lanczos-export",
+      "generation_native_dimensions": [
+        1254,
+        1254
+      ],
+      "delivery_dimensions": [
+        4096,
+        4096
+      ],
+      "prompt": "Use case: lighting-weather\nAsset type: square luxury apparel product photograph, existing lavender racerback tank on white marble.\nInput image: edit target.\nPrimary request: polish the existing photo into cinematic photoreal premium ecommerce quality with the highest native resolution, fine natural cotton fibers, real seam detail, refined mineral textures and soft directional daylight. Maintain exact composition: same lavender racerback tank, its silhouette, neckline, hem, scale, folds, same white marble slab, amethyst and clear quartz at upper right, lavender sprigs at lower right, blurred wicker basket and room beyond. Keep the pale gold-and-cream eye and stars print and crescent moon exactly in place.\nText verbatim: EYE BELIEVE; BETH ELISE.\nLighting: subtle warm window highlights, nuanced shadows, tactile photographic realism, gentle filmic contrast.\nConstraints: preserve product identity, color, layout, prop counts, exact eye artwork, all letters and spacing; change only photography fidelity and light. Do not move, add or remove objects. No fantasy effects, no CGI plastic, no redesigned logo. Square output with 4K detail intent.",
+      "source_file": "/Users/bethrooney/.codex/generated_images/01a152b0-bb38-7f00-8e3c-2c4d9aa232ad/exec-a7ba9882-25eb-4191-baea-fbea6cb8ed38.png",
+      "source_sha256": "c0dd7a03df9d9a913bf5bd4a7ce626cfd38ed44261aa8f44c495ca88dd7730ce",
+      "outputs": {
+        "jpg": {
+          "path": "images/merch-eye-believe-tanktop.jpg",
+          "sha256": "e9eb9d27c73f6d6f35b391343abbbcd639e11b9b3222067836b49e0387f97b0c",
+          "bytes": 2235626
+        },
+        "webp": {
+          "path": "images/merch-eye-believe-tanktop.webp",
+          "sha256": "4d3ba9bf4c7a72258699e895517a8555ec638de70dce044ec171937d8372dfe2",
+          "bytes": 829734
+        }
+      }
+    },
+    {
+      "stem": "merch-eye-believe-vneck-black",
+      "original_dimensions": [
+        1024,
+        1024
+      ],
+      "original_jpg_sha256": "806cbd3d09bfca86238677ff70b2674f3dc676876e04244f8496f4231f276559",
+      "original_webp_sha256": "2b08fcad64683c27140ddfc993158b274ad86d55aca2d8ec126757a9021a5165",
+      "method": "built-in-imagegen-edit-and-lanczos-export",
+      "generation_native_dimensions": [
+        1254,
+        1254
+      ],
+      "delivery_dimensions": [
+        4096,
+        4096
+      ],
+      "prompt": "Use case: lighting-weather\nAsset type: square luxury fashion ecommerce product photograph.\nInput image: edit target.\nPrimary request: refine this black crew-neck tee flat-lay to cinematic premium photoreal photography, 4K detail intent. Maintain exact overhead camera, garment shape and position, black color, beige linen ground and existing gold stars-and-lines purple eye print with lavender script Believe. Preserve the exact eye, every gold geometric detail, stars, lettering and print scale. Change only photographic fidelity and illumination: real fine cotton texture and stitching, natural matte ink, restrained directional window light, deep nuanced black fabric, warmly lit ivory linen texture, subtle filmic highlights, detailed believable shadows. The eye remains a flat printed graphic, and must not become an actual eye.\nText verbatim: Believe.\nConstraints: no composition changes, no new props, no changes to product/artwork/lettering, no added decoration, no fantasy or cartoon effects, no plastic CGI. Highest available native resolution, square crop.",
+      "source_file": "/Users/bethrooney/.codex/generated_images/01a152b0-bb38-7f00-8e3c-2c4d9aa232ad/exec-c2b2f49e-bab9-4b75-8608-fea27a50ede9.png",
+      "source_sha256": "ceab675d66a84f2ed2f314eb80b996f0a377dc1ccb7aa8a3794f4145eeec7d4e",
+      "matching_original_mapping": "Same existing crew-neck photograph in original vneck-named asset; source differs only by minor JPEG re-encoding.",
+      "outputs": {
+        "jpg": {
+          "path": "images/merch-eye-believe-vneck-black.jpg",
+          "sha256": "264c044bef377489421580497e737331ff391ac8c466d255584f05a02f79a2cd",
+          "bytes": 3132745
+        },
+        "webp": {
+          "path": "images/merch-eye-believe-vneck-black.webp",
+          "sha256": "c219ba5eb721b7457c5d12bea3aa58ad59b726eedef331b2a9a79c0de66c679c",
+          "bytes": 1497678
+        }
+      }
+    },
+    {
+      "stem": "merch-eye-believe-vneck-lavender",
+      "original_dimensions": [
+        1024,
+        1024
+      ],
+      "original_jpg_sha256": "d64ba5144deb57a184f78a55a40cc3c9d8b0a07dad61bd1b8ab128cd92f40daa",
+      "original_webp_sha256": "ef85907cac2e6c396c43082c5d4516befad9c679efbaceaecc1e472c2ee9378f",
+      "method": "built-in-imagegen-edit-and-lanczos-export",
+      "generation_native_dimensions": [
+        1254,
+        1254
+      ],
+      "delivery_dimensions": [
+        4096,
+        4096
+      ],
+      "prompt": "Use case: lighting-weather\nAsset type: square luxury apparel ecommerce product photograph.\nInput image: edit target.\nPrimary request: turn this lavender tee flat-lay into premium cinematic photoreal product photography at the highest native resolution. Keep the exact overhead composition, exact same shirt silhouette, crew neck, sleeves, label, garment lavender color, beige linen background and perfectly intact centered purple-and-gold eye print with script word Believe. The eye illustration is printed artwork: preserve it completely, including the eye, pupil, gold geometry and stars, their placement and scale. Change only photographic fidelity and lighting: crisp natural cotton fibers, realistic fine seams and stitching, gentle fabric folds, fine linen texture, directional soft window light with warm cream highlights and subtle violet shadows. Camera realism, nuanced filmic contrast, authentic matte screenprint ink bonded to cloth. A restrained luxury fashion catalog still life.\nConstraints: preserve all exact artwork, all text, shape and layout. No redesigned eye, no changes to script Believe, no added elements, no new labels, no props, no changed color, no fantasy glow or CGI look. Square image, highest available resolution, 4K detail intent.",
+      "source_file": "/Users/bethrooney/.codex/generated_images/01a152b0-bb38-7f00-8e3c-2c4d9aa232ad/exec-2c2126ae-6360-4347-84b2-653fc4771264.png",
+      "source_sha256": "a6c573f27ce3dc18c08787d6c522dc166cb9a09e33d4bb6dcfdd08e6b2d3f52f",
+      "matching_original_mapping": "Same existing crew-neck photograph in original vneck-named asset; source differs only by minor JPEG re-encoding.",
+      "outputs": {
+        "jpg": {
+          "path": "images/merch-eye-believe-vneck-lavender.jpg",
+          "sha256": "4461d9b1f5b18da05d0d6e8e85d3680e090bb0eb1632ab4f7d7080fb900bf8a7",
+          "bytes": 3583519
+        },
+        "webp": {
+          "path": "images/merch-eye-believe-vneck-lavender.webp",
+          "sha256": "ac43b15eeb9f7d0a5782a2bf72cef62788b49742df33ae3a01d76e91f71a92a0",
+          "bytes": 1796400
+        }
+      }
+    },
+    {
+      "stem": "merch-eye-believe-vneck-white",
+      "original_dimensions": [
+        1024,
+        1024
+      ],
+      "original_jpg_sha256": "e855e3a5b33259f941f79665f3d979a131409be18ee55b19642556ec23ef8c10",
+      "original_webp_sha256": "c8345e0d1ac914495bf72a0bbbf381b87a671723e3fcb28e7d12e5d017978d2e",
+      "method": "built-in-imagegen-edit-and-lanczos-export",
+      "generation_native_dimensions": [
+        1254,
+        1254
+      ],
+      "delivery_dimensions": [
+        4096,
+        4096
+      ],
+      "prompt": "Use case: lighting-weather\nAsset type: square luxury fashion ecommerce product photograph.\nInput image: edit target.\nPrimary request: refine this exact white crew-neck tee flat-lay into cinematic premium photoreal photography with 4K detail intent. Maintain exact overhead camera, same garment silhouette, sleeves, neck, folds and position, clean white cotton color, beige linen ground and existing gold filigree/stars purple eye print with dark violet script Believe including its underline flourish. Preserve the exact printed eye with eyelashes, purple iris, pupil and gold geometric linework, its size, stars, lettering and all colors. Change only photographic fidelity and illumination: real fine cotton texture and stitching, natural matte ink, restrained directional window light, creamy natural white fabric highlights, warmly lit ivory linen, soft accurate shadows, subtle filmic texture. The eye remains a flat printed graphic.\nText verbatim: Believe.\nConstraints: no composition changes, no new props, no changes to product/artwork/lettering, no changed or missing flourishes, no fantasy additions, no plastic CGI. Highest available native resolution, square crop.",
+      "source_file": "/Users/bethrooney/.codex/generated_images/01a152b0-bb38-7f00-8e3c-2c4d9aa232ad/exec-9adb78a0-5f8e-4ca9-988b-0fb3869952c4.png",
+      "source_sha256": "5bec01e4a09746e98683a4313dd934c5127b7a3029548c615c6d845c1c13adcb",
+      "matching_original_mapping": "Same existing crew-neck photograph in original vneck-named asset; source differs only by minor JPEG re-encoding.",
+      "outputs": {
+        "jpg": {
+          "path": "images/merch-eye-believe-vneck-white.jpg",
+          "sha256": "76bda6c673477c0fdc17b10a5d81b2bb5ceeb0e077ddb02ae74cf22bb0d03e1d",
+          "bytes": 3457078
+        },
+        "webp": {
+          "path": "images/merch-eye-believe-vneck-white.webp",
+          "sha256": "931e3fd172d2d4dfe8515a6e50b66879f287e0667068c438af77b0fd14ace8c4",
+          "bytes": 1813786
+        }
+      }
+    },
+    {
+      "stem": "merch-eye-believe-white",
+      "original_dimensions": [
+        1024,
+        1024
+      ],
+      "original_jpg_sha256": "9f135c615578320b6a8ee317800793e68b54c09f7a87d69555d1970e442b7d03",
+      "original_webp_sha256": "dd486ca7a026d7ac6bfd39d9f76d2f163bad4aea7953d8082a4a32a6b6ec9681",
+      "method": "built-in-imagegen-edit-and-lanczos-export",
+      "generation_native_dimensions": [
+        1254,
+        1254
+      ],
+      "delivery_dimensions": [
+        4096,
+        4096
+      ],
+      "prompt": "Use case: lighting-weather\nAsset type: square luxury fashion ecommerce product photograph.\nInput image: edit target.\nPrimary request: refine this exact white crew-neck tee flat-lay into cinematic premium photoreal photography with 4K detail intent. Maintain exact overhead camera, same garment silhouette, sleeves, neck, folds and position, clean white cotton color, beige linen ground and existing gold filigree/stars purple eye print with dark violet script Believe including its underline flourish. Preserve the exact printed eye with eyelashes, purple iris, pupil and gold geometric linework, its size, stars, lettering and all colors. Change only photographic fidelity and illumination: real fine cotton texture and stitching, natural matte ink, restrained directional window light, creamy natural white fabric highlights, warmly lit ivory linen, soft accurate shadows, subtle filmic texture. The eye remains a flat printed graphic.\nText verbatim: Believe.\nConstraints: no composition changes, no new props, no changes to product/artwork/lettering, no changed or missing flourishes, no fantasy additions, no plastic CGI. Highest available native resolution, square crop.",
+      "source_file": "/Users/bethrooney/.codex/generated_images/01a152b0-bb38-7f00-8e3c-2c4d9aa232ad/exec-9adb78a0-5f8e-4ca9-988b-0fb3869952c4.png",
+      "source_sha256": "5bec01e4a09746e98683a4313dd934c5127b7a3029548c615c6d845c1c13adcb",
+      "outputs": {
+        "jpg": {
+          "path": "images/merch-eye-believe-white.jpg",
+          "sha256": "76bda6c673477c0fdc17b10a5d81b2bb5ceeb0e077ddb02ae74cf22bb0d03e1d",
+          "bytes": 3457078
+        },
+        "webp": {
+          "path": "images/merch-eye-believe-white.webp",
+          "sha256": "931e3fd172d2d4dfe8515a6e50b66879f287e0667068c438af77b0fd14ace8c4",
+          "bytes": 1813786
+        }
+      }
+    },
+    {
+      "stem": "merch-eye-believe-womens-vneck-black",
+      "original_dimensions": [
+        1024,
+        1024
+      ],
+      "original_jpg_sha256": "6d8435f51f0eca97bf3b3760940a72b220ed3d219948c8d8a8ad20c7c2d82580",
+      "original_webp_sha256": "5c873aa7374372323bf33ee12d5b51e20ff493bb5a38e3471c40930a71f570b2",
+      "method": "source-preserving-lanczos-upscale",
+      "generation_native_dimensions": null,
+      "delivery_dimensions": [
+        4096,
+        4096
+      ],
+      "prompt": null,
+      "source_file": "/Users/bethrooney/Desktop/BETH-ELISE-SITE-GPT/product-originals/merch-eye-believe-womens-vneck-black.jpg",
+      "source_sha256": "6d8435f51f0eca97bf3b3760940a72b220ed3d219948c8d8a8ad20c7c2d82580",
+      "reason": "Preserve exact detailed branded product artwork and existing color-variant mapping; no generative re-interpretation of the source.",
+      "outputs": {
+        "jpg": {
+          "path": "images/merch-eye-believe-womens-vneck-black.jpg",
+          "sha256": "32ba39ed2ebdccbba55daa0b6ec735dbeaec694cf703914af09d94b73b132ec3",
+          "bytes": 916732
+        },
+        "webp": {
+          "path": "images/merch-eye-believe-womens-vneck-black.webp",
+          "sha256": "b3d31ce684c555f009451c0989f118dcbde5d6229244532c58a70f74fb420804",
+          "bytes": 307174
+        }
+      }
+    },
+    {
+      "stem": "merch-eye-believe-womens-vneck-white",
+      "original_dimensions": [
+        1024,
+        1024
+      ],
+      "original_jpg_sha256": "957739a7f361b01fbf5e6ca57177a5e905737ff7e062e7110b800e21f09f80b5",
+      "original_webp_sha256": "cf8c57985541044c477d54e723b346add7e168a37aa99beeba9785173703be70",
+      "method": "source-preserving-lanczos-upscale",
+      "generation_native_dimensions": null,
+      "delivery_dimensions": [
+        4096,
+        4096
+      ],
+      "prompt": null,
+      "source_file": "/Users/bethrooney/Desktop/BETH-ELISE-SITE-GPT/product-originals/merch-eye-believe-womens-vneck-white.jpg",
+      "source_sha256": "957739a7f361b01fbf5e6ca57177a5e905737ff7e062e7110b800e21f09f80b5",
+      "reason": "Preserve exact detailed branded product artwork and existing color-variant mapping; no generative re-interpretation of the source.",
+      "outputs": {
+        "jpg": {
+          "path": "images/merch-eye-believe-womens-vneck-white.jpg",
+          "sha256": "570cd2c271cc72f0fdce1439a17e40a982cdcd69416ef7d1c74199f1a44270c5",
+          "bytes": 1455099
+        },
+        "webp": {
+          "path": "images/merch-eye-believe-womens-vneck-white.webp",
+          "sha256": "c94f68ed5748dd6ec01ce486255dcc76f17d95d3936660763cd2b8fed7a344e0",
+          "bytes": 640188
+        }
+      }
+    },
+    {
+      "stem": "merch-eye-believe-womens-vneck",
+      "original_dimensions": [
+        1024,
+        1024
+      ],
+      "original_jpg_sha256": "cec1b0eb7b25a43a04a7c705f768639a0b58dc5260c9686d3bfef5e92f1326b5",
+      "original_webp_sha256": "56fd8b8818b2797969217d4bd79b64af169b2001febd42edafa2c3f52ba4845b",
+      "method": "built-in-imagegen-edit-and-lanczos-export",
+      "generation_native_dimensions": [
+        1254,
+        1254
+      ],
+      "delivery_dimensions": [
+        4096,
+        4096
+      ],
+      "prompt": "Use case: lighting-weather\nAsset type: square luxury womenswear ecommerce product photograph.\nInput image: edit target.\nPrimary request: elevate the exact existing lavender V-neck tee scene into cinematic premium product photography with tactile cotton, natural directional window light and refined filmic contrast. Keep exact tee shape, lavender color, perspective, garment folds and composition on white marble by the window. Keep the gold crescent necklace, incense dish at top, amethyst and pale crystal and lavender sprig at left, small flower dish at right, wood edge and all other objects in their original locations, sizes and counts. Preserve every detail of the centered black/gold eye art with moon, flourishes, stars, lines and exact brand print.\nText verbatim: EYE BELIEVE; BETH ELISE.\nMaterials: crisp cotton weave and stitching, authentic matte print, subtle marble grain, real translucent minerals, delicate metallic necklace glints; gentle amber highlights and nuanced violet shadows.\nConstraints: only improve lighting and photographic detail. No new props, no removed objects, no rearrangement, no changed product, no changed eye logo, no spelling changes, no cartoon or CGI effect. Square image highest native resolution, 4K detail intent.",
+      "source_file": "/Users/bethrooney/.codex/generated_images/01a152b0-bb38-7f00-8e3c-2c4d9aa232ad/exec-251f58d6-94e9-4efe-9e2c-d0aec09ab295.png",
+      "source_sha256": "abe5ccd9d78d11b614fbf27689954354ebef22cff86eb86080c1973257c1bf5a",
+      "outputs": {
+        "jpg": {
+          "path": "images/merch-eye-believe-womens-vneck.jpg",
+          "sha256": "ee67e105f90e015ab0b88e1cd007ee77ac5efeaeda8218e47ba9aded87d419ea",
+          "bytes": 2486075
+        },
+        "webp": {
+          "path": "images/merch-eye-believe-womens-vneck.webp",
+          "sha256": "4df2775d832fd384c46c3ed6dd96a0394a3e1dc86485dddacb93ef5f8948cae4",
+          "bytes": 1020554
+        }
+      }
+    },
+    {
+      "stem": "merch-love-is-love-black",
+      "original_dimensions": [
+        1024,
+        1024
+      ],
+      "original_jpg_sha256": "5433ec0dcf70fd3b698fe05a18df52844e616368ef6c059a7b1b8e860c95a26e",
+      "original_webp_sha256": "f4479570053f20629b457f9d04ed4754c3aec99b68084ba5b98fb2a861fa31aa",
+      "method": "built-in-imagegen-edit-and-lanczos-export",
+      "generation_native_dimensions": [
+        1254,
+        1254
+      ],
+      "delivery_dimensions": [
+        4096,
+        4096
+      ],
+      "prompt": "Use case: lighting-weather\nAsset type: square luxury ecommerce folded black tee product photograph.\nInput image: edit target.\nPrimary request: cinematic premium photographic polish for the exact existing image. Keep folded black cotton tee at its same angle and scale on dark slate by the window, same white marble strip and folded grey cloth at upper right. Preserve exact printed winged neon turquoise and purple heart with gold rays and stars and the gold script beneath. The colorful graphic remains flat printed artwork. Keep original composition, object count, position, perspective, crop, all artwork linework, colors and lettering. Improve only material realism and light: natural tactile cotton and stitching, authentic matte print, crisp slate layers, fine rock grain, soft window light, deep detailed blacks, restrained filmic contrast and subtle reflected highlights.\nText verbatim: Love is Love \u00b7 Beth Elise. Also preserve the existing Beth Elise neck label.\nConstraints: no redesigned print, no missing or changed text, no added glow outside the artwork, no new props, no rearrangement, no color changes. Highest native resolution, square frame, 4K detail intent.",
+      "source_file": "/Users/bethrooney/.codex/generated_images/01a152b0-bb38-7f00-8e3c-2c4d9aa232ad/exec-d5613233-24c9-4d2c-a5e9-5d269a3a48f7.png",
+      "source_sha256": "d492a596968cbd495f989915887ec204598b65a0851c86000498e64589ecedff",
+      "outputs": {
+        "jpg": {
+          "path": "images/merch-love-is-love-black.jpg",
+          "sha256": "448e75664834f7d4ec3d1b8e47c79b2cbf449698c36ac0409356e9a250016d20",
+          "bytes": 2419443
+        },
+        "webp": {
+          "path": "images/merch-love-is-love-black.webp",
+          "sha256": "220da42f528e5596a7d5589f829f95c55faed703c98488d16fbb7bc4a8c0c25d",
+          "bytes": 1024060
+        }
+      }
+    },
+    {
+      "stem": "merch-love-is-love-lavender",
+      "original_dimensions": [
+        1024,
+        1024
+      ],
+      "original_jpg_sha256": "a66b009c94fc4800d91f9d6deac28d3f91d17890dc44d2a5408d25a7a5b3fa76",
+      "original_webp_sha256": "64bd88a65f2027be604e4d959af930ad0342f08ce7114ca4fed4d922a8a7abc7",
+      "method": "built-in-imagegen-edit-and-lanczos-export",
+      "generation_native_dimensions": [
+        1254,
+        1254
+      ],
+      "delivery_dimensions": [
+        4096,
+        4096
+      ],
+      "prompt": "Use case: lighting-weather\nAsset type: square premium apparel product photo, folded lavender Love Is Love tee with amethyst.\nInput image: edit target. Primary request: enhance the exact existing image into cinematic photoreal luxury ecommerce product photography. Keep the same folded lavender cotton tee, exact neckline and folded edges, its composition and crop on white marble, the same three purple crystals at right, and the exact printed winged-heart illustration with flame, constellations, stars and crescent. Preserve the print's lavender, pink, blue and gold colors and all its linework and typography. Change only light and photographic material realism: crisp cotton weave, fine hem stitching, genuine matte screenprint, transparent amethyst mineral detail and natural marble grain. Subtle golden window illumination from upper left, nuanced soft shadows, refined filmic color, editorial tactile realism.\nText verbatim: Love is Love; Beth Elise.\nConstraints: exact product/artwork/text/prop/layout preservation, no new props, no moved objects, no changed printed design, no floating magical effects, no cartoon world, no CGI plastic. Highest native resolution, square frame, 4K detail intent.",
+      "source_file": "/Users/bethrooney/.codex/generated_images/01a152b0-bb38-7f00-8e3c-2c4d9aa232ad/exec-6ca63eae-4202-46b1-b899-a4e58ad01740.png",
+      "source_sha256": "2372fe5f9ee81a9aa98015ff48c5ad7779f2c8796026108de1bab00d2679b03c",
+      "outputs": {
+        "jpg": {
+          "path": "images/merch-love-is-love-lavender.jpg",
+          "sha256": "7c04eb2b87639a2862df8229a263d0dffbd50ce01cec52052e8d80de2f7b7e53",
+          "bytes": 2492812
+        },
+        "webp": {
+          "path": "images/merch-love-is-love-lavender.webp",
+          "sha256": "b7f67ae9f7bb0d61ccd356d658da01727aa9bd67d09d548a559da7fc05d899d5",
+          "bytes": 954238
+        }
+      }
+    },
+    {
+      "stem": "merch-love-is-love-white",
+      "original_dimensions": [
+        1024,
+        1024
+      ],
+      "original_jpg_sha256": "b5284ee2634bd925611fcc167dcd1fe9b61636084800dae6d658d7d05a23e6ff",
+      "original_webp_sha256": "b80742b8c2f0e5fe25f23b762bc3fa036398ce58c3fe44ef07dd63349bcd66de",
+      "method": "built-in-imagegen-edit-and-lanczos-export",
+      "generation_native_dimensions": [
+        1254,
+        1254
+      ],
+      "delivery_dimensions": [
+        4096,
+        4096
+      ],
+      "prompt": "Use case: lighting-weather\nAsset type: square luxury ecommerce folded white tee product photograph.\nInput image: edit target.\nPrimary request: enhance this exact original into premium cinematic photoreal product photography. Keep folded white tee at its same angle, perspective and scale on the round white marble table by the window, the same amethyst, clear quartz and pale stone at lower right, succulent and ceramic vase at upper right, and all original elements exactly in place. Preserve exact purple/turquoise/gold winged heart print, rays and script.\nText verbatim: Love is Love \u00b7 Beth Elise.\nChange only photography detail and lighting: crisp natural cotton fibers, precise seams, subtle matte print texture, translucent crystal facets, marble mineral grain and real ceramic glints, soft warm window lighting, refined gentle shadows, nuanced filmic tones. Printed artwork stays flat artwork, unchanged.\nConstraints: exact product identity, shape, colors, text, decoration, object count, layout and crop; no new props, no moved objects, no redesigned logo, no added fantasy effects, no plastic CGI. Square highest native resolution, 4K detail intent.",
+      "source_file": "/Users/bethrooney/.codex/generated_images/01a152b0-bb38-7f00-8e3c-2c4d9aa232ad/exec-43d5a77a-9b95-47b0-a562-f259fd1b27a5.png",
+      "source_sha256": "eb7771beffc520a5daac2e514a6afa4b273dd45816395d4654602bf4a6762a2e",
+      "outputs": {
+        "jpg": {
+          "path": "images/merch-love-is-love-white.jpg",
+          "sha256": "632970c431d03d3498f81278baf781e4c19bcf37ff3a3c7909c40e2526ee8a17",
+          "bytes": 2001394
+        },
+        "webp": {
+          "path": "images/merch-love-is-love-white.webp",
+          "sha256": "d8f6724b0fb299dc72601b43f8c6f70c86c17b6ead39639af0cf453ae9dcf916",
+          "bytes": 724400
+        }
+      }
+    },
+    {
+      "stem": "merch-love-is-love",
+      "original_dimensions": [
+        1024,
+        1024
+      ],
+      "original_jpg_sha256": "c82200e58604674295c17b0169b53ed3477b514851183e9f5d61113b2030771c",
+      "original_webp_sha256": "e7b5fe29dad3d6adbf22218d7011f5c40d59e87d46ee18368755822646bbe41f",
+      "method": "built-in-imagegen-edit-and-lanczos-export",
+      "generation_native_dimensions": [
+        1254,
+        1254
+      ],
+      "delivery_dimensions": [
+        4096,
+        4096
+      ],
+      "prompt": "Use case: lighting-weather\nAsset type: square luxury ecommerce photograph of an existing die-cut sticker.\nInput image: edit target, exact original product artwork and composition must be preserved.\nPrimary request: enhance the original into cinematic premium product photography, crisp macro material fidelity and natural filmic light. Keep the same purple heart-shaped die-cut sticker with elaborate turquoise-and-gold LOVE IS LOVE script and every flourish, star, outline, gradient, letter, color and shape exactly as the original; keep its same centered placement, scale, orientation and square framing on the dark blue surface. Only refine photographic realism: tactile printed vinyl, subtly raised die-cut edges, elegant naturally reflected highlights, tiny realistic surface grain, defined contact shadows, blue slate background texture. Soft directional upper-left light with rich indigo shadows and sophisticated restrained contrast. The graphic itself remains printed flat artwork; do not transform its typography or decoration into physical objects.\nText verbatim: love IS love (the original lettering).\nConstraints: exact design preservation, no added props, no new sparkles, no rearrangement, no changed words, no missing text, no redesigned logo, no cartoon lighting or plastic CGI. Highest native resolution and 4K detail intent.",
+      "source_file": "/Users/bethrooney/.codex/generated_images/01a152b0-bb38-7f00-8e3c-2c4d9aa232ad/exec-56e4afd0-42f1-4abf-89d2-ea993f654ef7.png",
+      "source_sha256": "c9aeff2377abf88b1babae22c440f2a546ef6fb26979d5408b885663d3815d43",
+      "outputs": {
+        "jpg": {
+          "path": "images/merch-love-is-love.jpg",
+          "sha256": "aa92563ea1e1ba147d9a001219721d6f375c11db83206b98d1ef73777c63902e",
+          "bytes": 2906409
+        },
+        "webp": {
+          "path": "images/merch-love-is-love.webp",
+          "sha256": "428e1b4ca074afdc759a1f3e653ceb38c5e69d1b07f9f7398c0e1b379454bd4b",
+          "bytes": 1197332
+        }
+      }
+    }
+  ],
+  "summary": {
+    "distinct_stems": 21,
+    "output_files": 42,
+    "built_in_generation_calls": 10,
+    "imagegen_enhanced_stems": 13,
+    "source_preserving_upscaled_stems": 8,
+    "output_dimensions": [
+      4096,
+      4096
+    ],
+    "resolution_note": "Delivery raster files are 4096\u00d74096. Imagegen edit masters are 1254\u00d71254, then Lanczos resampled with light output sharpening. Source-preserved variants use the original 1024\u00d71024 sources. These are not claimed as native 4K captured or generated detail.",
+    "review": "All generated masters visually reviewed for product category, color, major printed artwork, legible text, object placement and square aspect ratio. AI edits preserve broad composition; pixel-exact artwork identity cannot be guaranteed."
+  }
+}

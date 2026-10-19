@@ -1,0 +1,12 @@
+/* Same artwork, proportions, glow and timing; screen-sized source bitmaps. */
+:root {
+  --pico-orb: url('../images/runtime/icon-orb.webp');
+  --pico-eye: url('../images/runtime/icon-eye.webp');
+}
+@media (max-width: 1024px), (pointer: coarse) {
+  .hero__bg { background-image: url('../images/runtime/mobile/hero-bg.webp'); }
+  .services-section { background-image: url('../images/runtime/mobile/services-bg.webp'); }
+  .footer { background-image: url('../images/runtime/mobile/footer-bg.webp'); }
+  .chakra-poster-art-layer { background-image: url('../images/display/chakra-watercolor-transparent-960.webp') !important; }
+  .preloader__iris { background-image: url('../images/runtime/mobile/photorealistic_purple_iris_orb.webp'); }
+}

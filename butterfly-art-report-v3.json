@@ -1,0 +1,59 @@
+[
+  {
+    "species": "monarch",
+    "tool": "built-in imagegen",
+    "source": "exec-1edd9b31-fe10-4069-8517-1096ac68dd98.png",
+    "native": [
+      1254,
+      1254
+    ],
+    "hasAlpha": true,
+    "web": [
+      2048,
+      2048
+    ],
+    "master": [
+      4096,
+      4096
+    ],
+    "note": "Delivery sizes are upscaled exports, not native 4K detail."
+  },
+  {
+    "species": "swallowtail",
+    "tool": "built-in imagegen",
+    "source": "exec-e1ca0c0c-06cb-439e-8b20-c37e3873b864.png",
+    "native": [
+      1254,
+      1254
+    ],
+    "hasAlpha": true,
+    "web": [
+      2048,
+      2048
+    ],
+    "master": [
+      4096,
+      4096
+    ],
+    "note": "Delivery sizes are upscaled exports, not native 4K detail."
+  },
+  {
+    "species": "orange-tip",
+    "tool": "built-in imagegen",
+    "source": "exec-8c2c3a39-74cb-4858-95cc-17da22f2f2cd.png",
+    "native": [
+      1254,
+      1254
+    ],
+    "hasAlpha": true,
+    "web": [
+      2048,
+      2048
+    ],
+    "master": [
+      4096,
+      4096
+    ],
+    "note": "Delivery sizes are upscaled exports, not native 4K detail."
+  }
+]

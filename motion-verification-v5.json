@@ -1,0 +1,47 @@
+[
+  {
+    "width": 1440,
+    "height": 774,
+    "active": 10,
+    "seconds": 60,
+    "trials": 12,
+    "minimumSeparation": 67,
+    "nearPairFraction": 0
+  },
+  {
+    "width": 390,
+    "height": 700,
+    "active": 6,
+    "seconds": 60,
+    "trials": 12,
+    "minimumSeparation": 45,
+    "nearPairFraction": 0
+  },
+  {
+    "width": 320,
+    "height": 620,
+    "active": 6,
+    "seconds": 60,
+    "trials": 12,
+    "minimumSeparation": 36,
+    "nearPairFraction": 0.0010555555555555555
+  },
+  {
+    "width": 1440,
+    "height": 340,
+    "active": 6,
+    "seconds": 60,
+    "trials": 12,
+    "minimumSeparation": 57,
+    "nearPairFraction": 0
+  },
+  {
+    "width": 390,
+    "height": 340,
+    "active": 4,
+    "seconds": 60,
+    "trials": 12,
+    "minimumSeparation": 37,
+    "nearPairFraction": 0.0007407407407407407
+  }
+]

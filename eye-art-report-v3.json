@@ -1,0 +1,40 @@
+[
+  {
+    "asset": "eye-sclera-natural",
+    "tool": "built-in ImageGen",
+    "native": [
+      1774,
+      887
+    ],
+    "web": [
+      2048,
+      1024
+    ],
+    "master": [
+      4096,
+      2048
+    ],
+    "hasAlpha": true,
+    "source": "exec-fae09001-bf6d-48de-833d-099f4cd93ad0.png",
+    "note": "Web and 4K sizes are upscaled delivery exports."
+  },
+  {
+    "asset": "eye-iris-natural",
+    "tool": "built-in ImageGen",
+    "native": [
+      1254,
+      1254
+    ],
+    "web": [
+      2048,
+      2048
+    ],
+    "master": [
+      4096,
+      4096
+    ],
+    "hasAlpha": true,
+    "source": "exec-d05d1e09-c0ea-4e83-a683-8342469d9132.png",
+    "note": "Web and 4K sizes are upscaled delivery exports."
+  }
+]

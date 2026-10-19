@@ -1,0 +1,332 @@
+{
+  "diagnosis": "Likely graphics memory exhaustion, supported by the measured eager decode load. The physical device crash was not instrumented.",
+  "user_device": "iPhone 16 Pro; Safari repeatedly occurred error; Chrome cannot open page",
+  "old_loader_forced_decodes": [
+    {
+      "source": "images/hero-bg.webp",
+      "size": [
+        4128,
+        2304
+      ],
+      "decodedRGBABytes": 38043648
+    },
+    {
+      "source": "images/merch-eye-believe-hoodie-lavender.webp",
+      "size": [
+        4096,
+        4096
+      ],
+      "decodedRGBABytes": 67108864
+    },
+    {
+      "source": "images/chakra-watercolor-transparent.webp",
+      "size": [
+        2756,
+        4108
+      ],
+      "decodedRGBABytes": 45286592
+    },
+    {
+      "source": "images/aura-silhouette-glow.webp",
+      "size": [
+        4096,
+        4096
+      ],
+      "decodedRGBABytes": 67108864
+    },
+    {
+      "source": "images/notes-by-beth.webp",
+      "size": [
+        4128,
+        2304
+      ],
+      "decodedRGBABytes": 38043648
+    },
+    {
+      "source": "images/portrait.webp",
+      "size": [
+        4062,
+        4096
+      ],
+      "decodedRGBABytes": 66551808
+    },
+    {
+      "source": "images/merch-eye-believe-hat-black.webp",
+      "size": [
+        4096,
+        4096
+      ],
+      "decodedRGBABytes": 67108864
+    },
+    {
+      "source": "images/crystal_nebula_panorama.webp",
+      "size": [
+        4096,
+        2048
+      ],
+      "decodedRGBABytes": 33554432
+    },
+    {
+      "source": "images/avatar_body.webp",
+      "size": [
+        4096,
+        4096
+      ],
+      "decodedRGBABytes": 67108864
+    },
+    {
+      "source": "images/avatar_wing_left.webp",
+      "size": [
+        4096,
+        4096
+      ],
+      "decodedRGBABytes": 67108864
+    },
+    {
+      "source": "images/avatar_wing_right.webp",
+      "size": [
+        4096,
+        4096
+      ],
+      "decodedRGBABytes": 67108864
+    },
+    {
+      "source": "images/avatar_train.webp",
+      "size": [
+        4096,
+        4096
+      ],
+      "decodedRGBABytes": 67108864
+    },
+    {
+      "source": "images/photorealistic_avatar_transparent.png",
+      "size": [
+        4096,
+        4096
+      ],
+      "decodedRGBABytes": 67108864
+    },
+    {
+      "source": "images/photorealistic_glinda_bubble_orb.webp",
+      "size": [
+        4096,
+        4096
+      ],
+      "decodedRGBABytes": 67108864
+    },
+    {
+      "source": "images/photorealistic_purple_iris_orb.webp",
+      "size": [
+        4096,
+        4096
+      ],
+      "decodedRGBABytes": 67108864
+    },
+    {
+      "source": "images/logo.webp?v=5d",
+      "size": [
+        4096,
+        2746
+      ],
+      "decodedRGBABytes": 44990464
+    },
+    {
+      "source": "images/services-bg.webp",
+      "size": [
+        4096,
+        4096
+      ],
+      "decodedRGBABytes": 67108864
+    }
+  ],
+  "old_loader_decoded_RGBA_MiB": 958.1261596679688,
+  "new_loader_forced_decodes": 0,
+  "new_mobile_canvas_assets_and_backgrounds": [
+    {
+      "source": "images/runtime/mobile/avatar_body.webp",
+      "size": [
+        512,
+        512
+      ],
+      "decodedRGBABytes": 1048576
+    },
+    {
+      "source": "images/runtime/mobile/avatar_wing_left.webp",
+      "size": [
+        512,
+        512
+      ],
+      "decodedRGBABytes": 1048576
+    },
+    {
+      "source": "images/runtime/mobile/crystal_nebula_panorama.webp",
+      "size": [
+        1024,
+        512
+      ],
+      "decodedRGBABytes": 2097152
+    },
+    {
+      "source": "images/runtime/mobile/butterfly-orange-tip.webp",
+      "size": [
+        512,
+        512
+      ],
+      "decodedRGBABytes": 1048576
+    },
+    {
+      "source": "images/runtime/mobile/avatar_wing_right.webp",
+      "size": [
+        512,
+        512
+      ],
+      "decodedRGBABytes": 1048576
+    },
+    {
+      "source": "images/runtime/mobile/merch-eye-believe-hat-black.webp",
+      "size": [
+        512,
+        512
+      ],
+      "decodedRGBABytes": 1048576
+    },
+    {
+      "source": "images/runtime/mobile/photorealistic_glinda_bubble_orb.webp",
+      "size": [
+        512,
+        512
+      ],
+      "decodedRGBABytes": 1048576
+    },
+    {
+      "source": "images/runtime/mobile/aura-silhouette-glow.webp",
+      "size": [
+        512,
+        512
+      ],
+      "decodedRGBABytes": 1048576
+    },
+    {
+      "source": "images/runtime/mobile/services-bg.webp",
+      "size": [
+        1440,
+        1440
+      ],
+      "decodedRGBABytes": 8294400
+    },
+    {
+      "source": "images/runtime/mobile/avatar_train.webp",
+      "size": [
+        512,
+        512
+      ],
+      "decodedRGBABytes": 1048576
+    },
+    {
+      "source": "images/runtime/mobile/portrait.webp",
+      "size": [
+        512,
+        516
+      ],
+      "decodedRGBABytes": 1056768
+    },
+    {
+      "source": "images/runtime/mobile/merch-eye-believe-hoodie-lavender.webp",
+      "size": [
+        512,
+        512
+      ],
+      "decodedRGBABytes": 1048576
+    },
+    {
+      "source": "images/runtime/mobile/notes-by-beth.webp",
+      "size": [
+        512,
+        286
+      ],
+      "decodedRGBABytes": 585728
+    },
+    {
+      "source": "images/runtime/mobile/chakra-watercolor-transparent.webp",
+      "size": [
+        512,
+        763
+      ],
+      "decodedRGBABytes": 1562624
+    },
+    {
+      "source": "images/runtime/mobile/crystal_glass_specular.webp",
+      "size": [
+        512,
+        512
+      ],
+      "decodedRGBABytes": 1048576
+    },
+    {
+      "source": "images/runtime/mobile/butterfly-monarch.webp",
+      "size": [
+        512,
+        512
+      ],
+      "decodedRGBABytes": 1048576
+    },
+    {
+      "source": "images/runtime/mobile/photorealistic_purple_iris_orb.webp",
+      "size": [
+        512,
+        512
+      ],
+      "decodedRGBABytes": 1048576
+    },
+    {
+      "source": "images/runtime/mobile/hero-bg.webp",
+      "size": [
+        2580,
+        1440
+      ],
+      "decodedRGBABytes": 14860800
+    },
+    {
+      "source": "images/runtime/mobile/eye-iris-natural.webp",
+      "size": [
+        512,
+        512
+      ],
+      "decodedRGBABytes": 1048576
+    },
+    {
+      "source": "images/runtime/mobile/footer-bg.webp",
+      "size": [
+        2064,
+        1152
+      ],
+      "decodedRGBABytes": 9510912
+    },
+    {
+      "source": "images/runtime/mobile/butterfly-cinematic.webp",
+      "size": [
+        512,
+        512
+      ],
+      "decodedRGBABytes": 1048576
+    },
+    {
+      "source": "images/runtime/mobile/butterfly-swallowtail.webp",
+      "size": [
+        512,
+        512
+      ],
+      "decodedRGBABytes": 1048576
+    }
+  ],
+  "mobile_runtime_bitmaps_RGBA_MiB": 51.20947265625,
+  "additional_fixes": [
+    "192px optical UI icons replace two 4096px icons",
+    "HTML srcset/sizes for photographs and logos",
+    "Crystal canvas sized to its CSS footprint with original logical drawing coordinates",
+    "Phone backing density limited to 1.5 with a 1.5-megapixel per-canvas budget",
+    "Identical-size canvas resize avoids buffer reallocation",
+    "Deferred offscreen YouTube iframe initialization"
+  ],
+  "limits": "Decoded bitmap arithmetic is an estimate of RGBA storage, not an instrumented process/GPU memory measurement. Original 4K sources are retained unchanged."
+}

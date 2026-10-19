@@ -1,0 +1,28 @@
+[
+  {
+    "asset": "logo",
+    "generated_native": [
+      1533,
+      1026
+    ],
+    "export": [
+      4096,
+      2746
+    ],
+    "source": "exec-3844c483-4f76-4fa5-8027-47ff216bda2e.png",
+    "method": "Built-in imagegen then aspect-preserving delivery export"
+  },
+  {
+    "asset": "logo-dark",
+    "generated_native": [
+      1533,
+      1026
+    ],
+    "export": [
+      4096,
+      2746
+    ],
+    "source": "exec-876327ad-7ab1-4d76-9267-045ade932de0.png",
+    "method": "Built-in imagegen then aspect-preserving delivery export"
+  }
+]

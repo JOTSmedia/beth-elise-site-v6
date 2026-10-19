@@ -1,0 +1,124 @@
+/* Beth Elise v3 — cinematic finish, user-directed butterfly motion and portal fitting. */
+:root {
+  --font-script: 'Cormorant Garamond', Georgia, serif;
+  --font-serif: 'Cormorant Garamond', Georgia, serif;
+  --font-sans: 'Manrope', sans-serif;
+  --font-body: 'Manrope', sans-serif;
+  --tiffany: #a9cec2;
+  --tiffany-bright: #c8e1d6;
+  --tiffany-pale: #e0ece3;
+  --tiffany-deep: #5d8d80;
+  --aqua: #a9cec2;
+  --aqua-bright: #d0e3d9;
+  --aqua-pale: #e2eee6;
+  --gold: #d6bd8e;
+  --cream: #f4f1e9;
+  --deep-text: #233633;
+  --medium-text: #384b46;
+  --soft-text: #52615a;
+  --dark-surface: #0b171c;
+  --gradient-cta: linear-gradient(125deg, #e0d1ae, #b8d4c7);
+  --gradient-footer: linear-gradient(180deg, #101e25, #081319);
+  --shadow-glow: 0 0 24px rgba(165, 201, 185, .22);
+}
+body { font-variant: normal; letter-spacing: .012em; -webkit-font-smoothing: antialiased; }
+button, .btn, input, select, textarea { font-variant: normal; }
+h1,h2,h3,h4,h5,h6 { font-family: var(--font-serif); font-variant: normal; letter-spacing: .005em; }
+.section__title, .notes__title, .newsletter__title, .script-accent, .cursive-title, .cursive-header,
+.page-hero__title, .product-modal-title, .assistant-modal-title {
+  font-family: var(--font-serif) !important;
+  font-weight: 500 !important;
+  letter-spacing: -.025em !important;
+  text-shadow: none !important;
+  filter: none !important;
+}
+.section__title { color: #233633 !important; -webkit-text-fill-color: #233633 !important; }
+.hero .section__title, #oracle .section__title, #chakra-resonance .section__title,
+#aura-scanner .section__title, #notes .notes__title, #events .section__title,
+#quiz .section__title, #testimonials .section__title, #newsletter .newsletter__title,
+.sound-altar .section__title, .notes__title, .newsletter__title {
+  color: #f5f0e4 !important;
+  background: none !important;
+  -webkit-text-fill-color: #f5f0e4 !important;
+  -webkit-background-clip: initial !important;
+}
+.section__desc, .about__lead, .notes__desc { font-weight: 400 !important; font-variant: normal; }
+.hero__lead { font-weight: 400; font-variant: normal; text-shadow: 0 2px 14px #081319; -webkit-text-stroke: 0; }
+.section__eyebrow, .hero__tagline-pill {
+  color: #d9e6d9;
+  font-weight: 500;
+  background: rgba(9, 24, 28, .82);
+  border-color: rgba(207, 199, 168, .45);
+  box-shadow: 0 4px 20px rgba(0, 0, 0, .14);
+  text-shadow: none;
+}
+.nav { background: rgba(9, 22, 28, .94); }
+.nav__sound-btn { box-shadow: none !important; border-color: rgba(185, 207, 193, .5) !important; }
+.btn-primary, .btn-secondary, .btn-inquire, .merch-card__btn,
+.cart-checkout-btn, .modal-btn-primary { box-shadow: 0 4px 20px rgba(5, 18, 21, .18); text-shadow: none; font-weight: 600; }
+.btn-primary { background: var(--gradient-cta); color: #142b2a; border-color: #d8dac3; }
+.btn-secondary { background: rgba(8, 23, 29, .82); color: #e3eadd; border-color: #a9c5b7; }
+.hero__bg::after { background: linear-gradient(180deg, rgba(5, 17, 24, .06), transparent 60%, #0b171c 100%); }
+#hero-celestial-canvas { filter: saturate(.65); }
+#footer-celestial-canvas { filter: saturate(.7); }
+.fairy-sprite { filter: drop-shadow(0 0 6px rgba(171, 205, 192, .45)); }
+.merch-card__img { image-rendering: auto; }
+
+/* User direction: preserve luminous identity, caps/small caps and justified copy. */
+body { font-variant: all-small-caps; text-align: justify; }
+body :is(p, li, label, legend, input, select, textarea, button, a, span, div) { font-variant: all-small-caps; }
+:is(h1,h2,h3,h4,h5,h6), .section__title, .notes__title, .newsletter__title { font-variant: all-small-caps !important; }
+:is(p, .hero__lead, .section__desc, .notes__desc, .about__lead, .about__text, .service-card__desc, .merch-card__desc, .testimonial-card__text) { text-align: justify !important; text-align-last: left; }
+.hero__lead, .section__desc, .notes__desc { text-align-last: center; }
+#oracle-crystal-ball-canvas { filter: drop-shadow(0 0 16px rgba(166,207,199,.5)) drop-shadow(0 0 35px rgba(158,134,191,.4)); }
+/* Preserve caps even on components that previously reset the font variant. */
+body :is(p, li, label, legend, input, select, textarea, button, a, span, div, h1, h2, h3, h4, h5, h6) { font-variant: all-small-caps !important; }
+:is(p, .hero__lead, .section__desc, .notes__desc, .about__lead, .about__text, .service-card__desc, .merch-card__desc, .testimonial-card__text) { text-align-last: left; }
+.merch-card__btn, .merch-card button[style*="background:rgba"] { color: #f2eddf !important; }
+.merch-card__btn { background: rgba(39, 57, 60, .95); border: 1px solid rgba(191, 211, 195, .45); }
+/* Inner-page heroes share the luminous dark-surface identity. */
+.page-hero .section__title, .page-hero__title {
+  color: #f5f0e4 !important;
+  -webkit-text-fill-color: #f5f0e4 !important;
+  background: none !important;
+}
+
+/* Original celestial colors, with a tighter luminous edge and softer outer bloom.
+   Dimensions, hover timing, landing triggers and the 2-second pulse are unchanged. */
+.hero__logo-img, .preloader__logo {
+  filter: drop-shadow(0 0 3px rgba(255,255,255,.78))
+          drop-shadow(0 0 15px rgba(0,229,212,.70))
+          drop-shadow(0 0 36px rgba(0,255,200,.43))
+          drop-shadow(0 0 68px rgba(114,137,218,.30));
+}
+.nav__logo img {
+  filter: drop-shadow(0 0 1px rgba(255,255,255,.85))
+          drop-shadow(0 0 8px rgba(0,229,212,.80))
+          drop-shadow(0 0 18px rgba(0,255,200,.46));
+}
+.about__logo-script {
+  filter: drop-shadow(0 0 10px rgba(0,229,212,.58))
+          drop-shadow(0 0 22px rgba(255,255,255,.32));
+}
+.footer__logo {
+  filter: drop-shadow(0 0 8px rgba(0,229,212,.65))
+          drop-shadow(0 0 18px rgba(255,255,255,.35));
+}
+@keyframes logoCelestialLandingPulse {
+  0% {
+    transform: scale(1);
+    filter: drop-shadow(0 0 3px rgba(255,255,255,.78))
+            drop-shadow(0 0 14px rgba(0,255,200,.70))
+            drop-shadow(0 0 29px rgba(255,215,0,.35))
+            drop-shadow(0 0 56px rgba(0,229,212,.35));
+  }
+  100% {
+    transform: scale(1.035);
+    filter: drop-shadow(0 0 5px rgba(255,255,255,.90))
+            drop-shadow(0 0 21px rgba(0,255,200,.82))
+            drop-shadow(0 0 43px rgba(255,225,80,.45))
+            drop-shadow(0 0 76px rgba(0,229,212,.44))
+            drop-shadow(0 0 105px rgba(199,125,255,.24));
+  }
+}
+

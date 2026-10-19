@@ -1,0 +1,9 @@
+{
+  "compared_visible_pixels_outside_type_bands": 1043519,
+  "identical_pixels": 702579,
+  "identical_percent": 67.32785890817513,
+  "maximum_premultiplied_channel_difference": 6,
+  "method": "Compare exported original artwork with final export outside the two typography edit bands, using premultiplied RGBA.",
+  "pass": true,
+  "interpretation": "Outside the name/subtitle edit bands, original drawings retain their geometry and colors; small export differences are limited to antialiasing and alpha compositing."
+}

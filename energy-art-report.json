@@ -1,0 +1,132 @@
+{
+  "workflow": "Built-in image_gen edits using inspected local originals; no CLI/API fallback.",
+  "date": "2026-10-19",
+  "scope": "Only four existing energy image files replaced; no HTML, CSS, JavaScript, selectors, asset URLs, hotspot coordinates or animation code changed.",
+  "resolution_note": "4K delivery exports are transparently identified as resized from generated native images. These are new photorealistic renders, not native 4K generations or guaranteed pixel-identical artwork.",
+  "originals": {
+    "chakra-watercolor-transparent.png": {
+      "size": [
+        848,
+        1264
+      ],
+      "mode": "RGBA",
+      "sha256": "9a5d0258ebd2a89dda1fc4f7ef2923389b3c51bcdcf2251480c534e2966bb394"
+    },
+    "chakra-watercolor-transparent.webp": {
+      "size": [
+        848,
+        1264
+      ],
+      "mode": "RGBA",
+      "sha256": "38f17d65ae85ca0085e0b138dd767daa1433090b9d0ba33168d1dc1c9937572e"
+    },
+    "aura-silhouette-glow.jpg": {
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGB",
+      "sha256": "6062342e82c13061aeee7951be7cb3b4f69c061714d9607ff6569324da3e9edf"
+    },
+    "aura-silhouette-glow.webp": {
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGB",
+      "sha256": "b96a90192893725c8dc0c36823c228ea1c699a36273edc84e9edd20aaff0523e"
+    }
+  },
+  "selected": {
+    "chakra": {
+      "source": "/Users/bethrooney/.codex/generated_images/01a152b0-85cf-72f1-a868-fb2a16953910/exec-9c23bae2-54d5-4061-b40e-fbdf7f9a7712.png",
+      "native_dimensions": [
+        1027,
+        1531
+      ],
+      "delivery_dimensions": [
+        2756,
+        4108
+      ],
+      "delivery_upscaled": true,
+      "export": "Pillow Lanczos resampling and format conversion only; no semantic pixel editing.",
+      "exports": {
+        "chakra-watercolor-transparent.png": {
+          "dimensions": [
+            2756,
+            4108
+          ],
+          "mode": "RGBA",
+          "bytes": 8153973,
+          "sha256": "e39325f47510375e2e1882ef514f02f46d6ecdd1d8e67e6d02c3fb55d6162b97",
+          "alpha_range": [
+            0,
+            255
+          ],
+          "alpha_zero_pixels": 4967863
+        },
+        "chakra-watercolor-transparent.webp": {
+          "dimensions": [
+            2756,
+            4108
+          ],
+          "mode": "RGBA",
+          "bytes": 1518750,
+          "sha256": "d8d03f1df417831bdcb0933220cfae10a37f25a266bf0d1e0e13f4eff55b9677",
+          "alpha_range": [
+            0,
+            255
+          ],
+          "alpha_zero_pixels": 4967863
+        }
+      }
+    },
+    "aura": {
+      "source": "/Users/bethrooney/.codex/generated_images/01a152b0-85cf-72f1-a868-fb2a16953910/exec-93400885-16a9-4c03-a921-025f5c94557e.png",
+      "native_dimensions": [
+        1254,
+        1254
+      ],
+      "delivery_dimensions": [
+        4096,
+        4096
+      ],
+      "delivery_upscaled": true,
+      "export": "Pillow Lanczos resampling and format conversion only; no semantic pixel editing.",
+      "exports": {
+        "aura-silhouette-glow.jpg": {
+          "dimensions": [
+            4096,
+            4096
+          ],
+          "mode": "RGB",
+          "bytes": 4414338,
+          "sha256": "3fe9f6d64e14c25763f1d1ebdc92f570b933010c28b73e4bceb4f362b42171b0"
+        },
+        "aura-silhouette-glow.webp": {
+          "dimensions": [
+            4096,
+            4096
+          ],
+          "mode": "RGB",
+          "bytes": 2011800,
+          "sha256": "867f0fa4f88aca5c337840155ad182349e2d79b3ef8502913640a319e270bc04"
+        }
+      }
+    }
+  },
+  "prompts": {
+    "chakra_initial": "Use case: style-transfer. Edit target: the provided transparent watercolor chakra meditation asset, used behind an existing interactive website chakra map. Change only the rendering medium to cinematic photorealism. Produce at the highest native resolution available, ideally 4K portrait (original aspect ratio exactly 848:1264). Preserve the exact framing, spatial bounds, silhouette and anatomical landmark positions of the source. One centered front-facing adult woman with hair bun, eyes gently closed, seated cross-legged with each thumb and forefinger touching on the knees, in exactly the reference pose. Preserve head top at 22% canvas height, face through 40%, shoulders around 43%, hips around 66%, crossed feet at 79%; hands near 11% and 89% width at 65% height. Preserve all existing negative space and centered spine. Real photographic skin/anatomical details, elegantly draped silk yoga clothing tinted by the same seven ascending spectral colors: crimson hips, orange lower abdomen, warm yellow abdomen, emerald torso, cyan neck, indigo face and violet hair crown. Keep subtle branches in precisely their existing surrounding positions, now real translucent botanical leaves. Replace watercolor splashes with realistic illuminated drifting mist and spectral volumetric light within the same shape and bounds, feathered to actual alpha transparency. Cinematic movie VFX integrated with a real photographed meditator, delicate skin texture, physically plausible colored rim light, controlled contrast, no painting, no cartoon, no flat illustration, no plastic doll, no text, no labels, no added circles or diagram nodes. Background must be genuinely transparent everywhere outside subject/mist/leaves. Preserve full transparent canvas, no crop, no reframing, no zoom; keep source composition exactly.",
+    "chakra_selected": "Use case: style-transfer. Edit image 1 (original watercolor) to a photoreal movie-quality energy meditation cutout, using image 2 only as photographic texture/lighting reference. CRITICAL COMPOSITION: The last render image 2 enlarged the head and torso and moved the bun upward. Reject those geometric changes. Exactly trace image 1's silhouette and all anatomical landmark coordinates. Use the original full portrait transparent canvas aspect 848:1264, do not zoom or crop. Set the very top of the hair bun at x50%, y22%; forehead center x50%, y30%; chin x50%, y37%; neck base x50%, y42%; shoulder tips x36% and x64%, y43%; elbows x31% and x69%, y58%; hand/thumb mudras x15% and x85%, y65%; crossed legs spanning x17%-83%, y68%-78%; feet ending at y79%. Preserve the original small figure inside the large transparent margins. The top of the mist must be y12%, bottom y90%, not touch canvas borders. Preserve centered vertical spine. Keep the same spectral palette from violet at head to blue throat, green chest, yellow abdomen, orange pelvis and red legs, but render as realistic colored light on a photographed woman with naturally detailed skin and hair, opaque gracefully draped silk yoga clothing. Real translucent botanical leaves on either side in the original arrangement. Replace watercolor with subtle physically plausible volumetric mist within original bounds. Quiet atmospheric premium cinematic VFX, less bright glowing electricity than image 2. No painted texture, no cartoon, no text, no added node circles. All pixels outside figure, leaves and soft mist must have true alpha transparency. Output at 4K native portrait resolution if available, preserving original 848:1264 aspect ratio, exact geometric fidelity is essential.",
+    "aura_selected": "Use case: style-transfer. Edit target: supplied square aura-silhouette image. Re-render as cinematic live-action photography with physically convincing movie VFX, preserving exact original composition and framing. Target native 4096\u00d74096 square if possible, highest real resolution. Keep person perfectly centered, front-facing and seated in the same lotus pose, hands in same mudras: top of bald head at x50%,y25.6%, chin around y39%, shoulders y44%, hands at x25% and75%,y65%, crossed legs from x27% to73%,y70%-81%; maintain the same silhouette bounds and dark foreground rock at y79%. Replace smooth illustrated silhouette with a real meditating adult human in black draped yoga clothing, dark underexposed skin with subtle natural pores and anatomically convincing ears, arms, hands and face. Keep face mostly in shadow as original, with delicate violet and cyan edge light. Surround exactly the same placement of cyan, lavender and soft gold light trails, now sophisticated volumetric long-exposure light and translucent cinematic smoke with real luminosity, not cartoon swirls. Preserve deep navy astronomical star field with realistically varying star brightness and subtle photographic nebula detail; maintain major cyan patches left and right, and gold behind upper right. Movie still, fine organic texture, restrained highlights, natural depth, exceptional realism. Keep every original subject and all visual elements in their original locations. No additional objects, no text, no labels, no watermarks, no illustration, no plastic CGI, no crop or reframing. Background opaque.",
+    "chakra_transparent_edge_cleanup_selected": "Use case: background-extraction / precise-object-edit. Edit target is the attached photographic woman meditating with spectral fog and botanical leaves. Preserve EVERYTHING in the image pixel-position faithfully: same portrait canvas, same exact subject bounds, pose, face, silk clothing, leaves, rainbow colors, illumination and atmosphere. Change only the outer transparency boundary. The current cutout has conspicuous pale white, magenta/cyan fringes and rough pixelated fragments along the contour of the fog. Remove ALL matte-colored fringes, stray pixels and white halos. The spectral fog should fade smoothly and naturally into true alpha transparency at every edge, with clean semitransparent soft movie compositing edges. No white background, no black background; genuine transparent background. Keep original canvas aspect 848:1264 and preserve coordinates exactly. No new objects or alterations. This is a compositing alpha cleanup only, not a redesign. Produce the highest resolution possible."
+  },
+  "validation": {
+    "chakra_aspect_ratio": "2756:4108 simplifies to 53:79, exactly equal to original 848:1264.",
+    "aura_aspect_ratio": "4096:4096, exactly equal to original square.",
+    "transparency": "PNG and WebP retain RGBA alpha range 0\u2013255; exact fully transparent pixel counts are recorded in exports.",
+    "composition": "Selected chakra render corrects initial upward head shift, then received a targeted transparent-edge cleanup. Centered spine, lotus pose, broad canvas margins, botanical framing and rainbow progression retained. Generative edits introduce small anatomical variation; exact landmark tracing is not guaranteed.",
+    "fallbacks": "Both original fallback formats replaced from the same selected master per subject.",
+    "functional_changes": "None."
+  }
+}
